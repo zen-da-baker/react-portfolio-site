@@ -1,7 +1,39 @@
+/* Global
+======================================================== */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+/* Typography
+======================================================== */
+
+/* Components
+======================================================== */
+
+button {
+  padding: 1rem;
+  margin: 1rem;
+  width: 10rem;
+
+  border-radius: 1rem;
+  box-shadow: 0.5rem 0.5rem black;
+}
+
+/* Structure
+======================================================== */
+
 .App {
   text-align: center;
   display: flex;
 }
+
+
 
 .App-logo {
   height: 40vmin;

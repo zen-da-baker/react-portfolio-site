@@ -1,3 +1,6 @@
+// Import React
+import React from 'react';
+
 // Import styles
 import './App.css';
 
@@ -10,6 +13,10 @@ function App() {
         <button>Programming</button>
         <button>Writing</button>
         <button>Education</button>
+
+        <br/>
+
+        <button>About</button>
           
       </header>
 
