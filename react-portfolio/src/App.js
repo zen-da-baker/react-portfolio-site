@@ -13,23 +13,23 @@ function App() {
   const [body, setBody] = useState('art');
 
   function handleArt() {
-
+    setBody('art')
   }
 
   function handleProgramming() {
-
+    setBody('programming')
   }
 
   function handleWriting() {
-
+    setBody('writing')
   }
 
   function handleEducation() {
-
+    setBody('education')
   }
 
   function handleAbout() {
-    
+    setBody('about')
   }
 
   if (body === 'art') {
