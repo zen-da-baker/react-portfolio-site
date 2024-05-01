@@ -5,8 +5,12 @@ import React, { useState } from 'react';
 import './App.css';
 
 // Import Components
-import Art from './components/Art';
 import Header from './components/Header';
+import Art from './components/Art';
+import Programming from './components/Programming';
+import Writing from './components/Writing';
+import Education from './components/Education';
+import About from './components/About';
 
 function App() {
 
