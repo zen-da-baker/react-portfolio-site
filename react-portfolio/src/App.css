@@ -44,8 +44,25 @@ button {
 
   cursor: pointer;
 }
+button:hover {
+  transform: scale(105%);
+}
 
-
+.banner {
+  height: 20rem;
+  width: 45%;
+  margin: 1rem auto;
+  background-color: hsl(210, 20%, 75%);
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.banner:hover {
+  background-color: hsl(210, 20%, 80%);
+  transform: scale(105%);
+}
 
 /* Structure
 ======================================================== */
@@ -90,13 +107,4 @@ button {
   padding: 0.5rem;
 }
 
-.banner {
-  height: 20rem;
-  width: 45%;
-  margin: 1rem auto;
-  background-color: hsl(210, 20%, 80%);
-  border-radius: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
