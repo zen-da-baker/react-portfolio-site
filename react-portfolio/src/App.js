@@ -54,21 +54,61 @@ function App() {
   if (body === 'programming') {
     return (
       <div className='App'>
-        <Header />
+        <Header 
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Programming />
       </div>
     )
   }
 
   if (body === 'writing') {
-
+    return (
+      <div className='App'>
+        <Header 
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Writing />
+      </div>
+    )
   }
 
   if (body === 'education') {
-
+    return (
+      <div className='App'>
+        <Header 
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Education />
+      </div>
+    )
   }
 
   if (body === 'about') {
-
+    return (
+      <div className='App'>
+        <Header 
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <About />
+      </div>
+    )
   }
 }
 
