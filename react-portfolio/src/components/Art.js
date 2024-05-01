@@ -4,20 +4,18 @@ import React from 'react';
 // Import Styles
 import '../App.css';
 
+// Import Card Component
+import Card from './Card';
+
 export default function Art() {
     return (
         <div className='app-body'>
             <h1>Art</h1>
 
-            <div className='container'>
-                <div className='card'></div>
-                <div className='card'></div>
-                <div className='card'></div>
-                <div className='card'></div>
-                <div className='card'></div>
-                <div className='card'></div>
-                <div className='card'></div>
-                <div className='card'></div>
+            <div className='gallery'>
+                <Card />
+                <Card />
+                <Card />
             </div>
         </div>
     )
