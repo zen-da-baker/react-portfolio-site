@@ -12,6 +12,26 @@ function App() {
 
   const [body, setBody] = useState('art');
 
+  function handleArt() {
+
+  }
+
+  function handleProgramming() {
+
+  }
+
+  function handleWriting() {
+
+  }
+
+  function handleEducation() {
+
+  }
+
+  function handleAbout() {
+    
+  }
+
   if (body === 'art') {
     return (
       <div className='App'>
@@ -34,7 +54,7 @@ function App() {
   }
 
   if (body === 'about') {
-    
+
   }
 }
 
