@@ -89,3 +89,14 @@ button {
   margin: 0.5rem;
   padding: 0.5rem;
 }
+
+.banner {
+  height: 20rem;
+  width: 45%;
+  margin: 1rem auto;
+  background-color: hsl(210, 20%, 80%);
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

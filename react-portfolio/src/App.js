@@ -52,7 +52,12 @@ function App() {
           handleEducation={handleEducation}
           handleAbout={handleAbout}
         />
-        <Home />
+        <Home 
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+        />
       </div>
     )
   }
