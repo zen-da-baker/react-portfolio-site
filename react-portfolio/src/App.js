@@ -39,14 +39,24 @@ function App() {
   if (body === 'art') {
     return (
       <div className='App'>
-        <Header />
+        <Header 
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
         <Art />
       </div>
     )
   }
 
   if (body === 'programming') {
-
+    return (
+      <div className='App'>
+        <Header />
+      </div>
+    )
   }
 
   if (body === 'writing') {
