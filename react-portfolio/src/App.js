@@ -6,6 +6,7 @@ import './App.css';
 
 // Import Components
 import Header from './components/Header';
+import Home from './components/Home';
 import Art from './components/Art';
 import Programming from './components/Programming';
 import Writing from './components/Writing';
@@ -14,32 +15,53 @@ import About from './components/About';
 
 function App() {
 
-  const [body, setBody] = useState('art');
+  const [body, setBody] = useState('home');
+
+  function handleHome() {
+    setBody('home');
+  }
 
   function handleArt() {
-    setBody('art')
+    setBody('art');
   }
 
   function handleProgramming() {
-    setBody('programming')
+    setBody('programming');
   }
 
   function handleWriting() {
-    setBody('writing')
+    setBody('writing');
   }
 
   function handleEducation() {
-    setBody('education')
+    setBody('education');
   }
 
   function handleAbout() {
-    setBody('about')
+    setBody('about');
+  }
+
+  if (body === 'home') {
+    return (
+      <div className='App'>
+        <Header
+          handleHome={handleHome}
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Home />
+      </div>
+    )
   }
 
   if (body === 'art') {
     return (
       <div className='App'>
         <Header 
+          handleHome={handleHome}
           handleArt={handleArt}
           handleProgramming={handleProgramming}
           handleWriting={handleWriting}
@@ -55,6 +77,7 @@ function App() {
     return (
       <div className='App'>
         <Header 
+          handleHome={handleHome}
           handleArt={handleArt}
           handleProgramming={handleProgramming}
           handleWriting={handleWriting}
@@ -70,6 +93,7 @@ function App() {
     return (
       <div className='App'>
         <Header 
+          handleHome={handleHome}
           handleArt={handleArt}
           handleProgramming={handleProgramming}
           handleWriting={handleWriting}
@@ -85,6 +109,7 @@ function App() {
     return (
       <div className='App'>
         <Header 
+          handleHome={handleHome}
           handleArt={handleArt}
           handleProgramming={handleProgramming}
           handleWriting={handleWriting}
@@ -100,6 +125,7 @@ function App() {
     return (
       <div className='App'>
         <Header 
+          handleHome={handleHome}
           handleArt={handleArt}
           handleProgramming={handleProgramming}
           handleWriting={handleWriting}

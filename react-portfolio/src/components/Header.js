@@ -10,6 +10,7 @@ export default function Header(props) {
 
             <h1 className='title'>Don's Portfolio</h1>
             
+            <button onClick={props.handleHome}>Home</button>
             <button onClick={props.handleArt}>Art</button>
             <button onClick={props.handleProgramming}>Programming</button>
             <button onClick={props.handleWriting}>Writing</button>
