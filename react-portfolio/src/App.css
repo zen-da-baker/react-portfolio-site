@@ -13,6 +13,10 @@ html {
 /* Typography
 ======================================================== */
 
+h1 {
+  margin-bottom: 2rem;
+}
+
 h1, h2, h3, p, button, li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -40,6 +44,8 @@ button {
 
   cursor: pointer;
 }
+
+
 
 /* Structure
 ======================================================== */
@@ -75,5 +81,11 @@ button {
   background-color: hsl(210, 50%, 80%);
   width: 20rem;
   height: 20rem;
-  margin: 1rem;
+}
+
+.card-frame {
+  border: 0.1rem solid black;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
 }

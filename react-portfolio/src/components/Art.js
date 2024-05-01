@@ -13,7 +13,7 @@ export default function Art() {
             <h1>Art</h1>
 
             <div className='gallery'>
-                <Card />
+                <Card title='Wallpaper' description='This is a wallpaper.'/>
                 <Card />
                 <Card />
             </div>
