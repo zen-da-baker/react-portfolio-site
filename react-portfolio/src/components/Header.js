@@ -7,6 +7,8 @@ import '../App.css';
 export default function Header(props) {
     return (
         <header className="App-header">
+
+            <h1>Don's Portfolio</h1>
             
             <button onClick={props.handleArt}>Art</button>
             <button onClick={props.handleProgramming}>Programming</button>
