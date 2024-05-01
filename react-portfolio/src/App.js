@@ -21,16 +21,21 @@ function App() {
     )
   }
 
-  return (
-    <div className="App">
-      
+  if (body === 'programming') {
 
-      <main className="app-body">
-        <h1>Body</h1>
-        {body}
-      </main>
-    </div>
-  );
+  }
+
+  if (body === 'writing') {
+
+  }
+
+  if (body === 'education') {
+
+  }
+
+  if (body === 'about') {
+    
+  }
 }
 
 export default App;
