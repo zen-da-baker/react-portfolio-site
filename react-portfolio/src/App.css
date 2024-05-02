@@ -66,7 +66,7 @@ button:hover {
   height: 20rem;
   width: 30rem;
   margin: 1rem auto;
-  background-color: hsl(40, 20%, 75%);
+  background-color: hsl(40, 50%, 75%);
   border-radius: 1rem;
   display: flex;
   justify-content: center;
