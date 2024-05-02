@@ -12,6 +12,8 @@ export default function Art() {
         <div className='app-body'>
             <h1>Art</h1>
 
+            <h2>Art Projects</h2>
+
             <div className='gallery'>
                 <Card title='Wallpaper' description='This is a wallpaper.'/>
                 <Card />
