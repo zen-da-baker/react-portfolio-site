@@ -1,3 +1,13 @@
+/*
+  ========================================================
+  1. Global
+  2. Typography
+  3. Components
+  4. Structure
+  5. Responsive Design
+  ========================================================
+*/
+
 /* Global
 ======================================================== */
 
@@ -40,7 +50,7 @@ button {
   border-radius: 1rem;
   box-shadow: 0.5rem 0.5rem black;
 
-  background-color: hsl(210, 70%, 90%);
+  background-color: hsl(40, 20%, 90%);
 
   cursor: pointer;
 }
@@ -48,11 +58,15 @@ button:hover {
   transform: scale(105%);
 }
 
+.primary-btn {
+  background-color: hsl(40, 50%, 70%)
+}
+
 .banner {
   height: 20rem;
-  width: 45%;
+  width: 30rem;
   margin: 1rem auto;
-  background-color: hsl(210, 20%, 75%);
+  background-color: hsl(40, 20%, 75%);
   border-radius: 1rem;
   display: flex;
   justify-content: center;
@@ -60,20 +74,21 @@ button:hover {
   cursor: pointer;
 }
 .banner:hover {
-  background-color: hsl(210, 20%, 80%);
+  background-color: hsl(40, 20%, 80%);
   transform: scale(105%);
 }
 
 /* Structure
 ======================================================== */
 
-.App {
+.app {
   text-align: center;
   display: flex;
+  flex-direction: row;
 }
 
-.App-header {
-  background-color: hsl(210, 50%, 10%);
+.app-header {
+  background-color: hsl(40, 50%, 10%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -85,7 +100,7 @@ button:hover {
 
 .app-body {
   width: 80vw;
-  background-color: hsl(210, 10%, 90%);
+  background-color: hsl(40, 10%, 90%);
   padding: 2rem;
 }
 
@@ -95,7 +110,7 @@ button:hover {
 }
 
 .card {
-  background-color: hsl(210, 50%, 80%);
+  background-color: hsl(40, 50%, 80%);
   width: 20rem;
   height: 20rem;
 }
@@ -107,4 +122,35 @@ button:hover {
   padding: 0.5rem;
 }
 
+/* Responsive Design
+======================================================== */
 
+@media only screen and (max-width: 480px) {
+  .app {
+    flex-direction: column;
+    max-height: 20vh;
+  }
+
+  .app-header {
+    width: 100vw;
+    height: 20vh;
+  }
+
+  .app-body {
+    width: 100vw;
+  }
+
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card {
+    width: 90%;
+  }
+
+  h1 {
+    padding: 0;
+    margin: 0;
+  }
+}

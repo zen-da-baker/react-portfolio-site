@@ -43,7 +43,7 @@ function App() {
 
   if (body === 'home') {
     return (
-      <div className='App'>
+      <div className='app'>
         <Header
           handleHome={handleHome}
           handleArt={handleArt}
@@ -64,7 +64,7 @@ function App() {
 
   if (body === 'art') {
     return (
-      <div className='App'>
+      <div className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -80,7 +80,7 @@ function App() {
 
   if (body === 'programming') {
     return (
-      <div className='App'>
+      <div className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -96,7 +96,7 @@ function App() {
 
   if (body === 'writing') {
     return (
-      <div className='App'>
+      <div className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -112,7 +112,7 @@ function App() {
 
   if (body === 'education') {
     return (
-      <div className='App'>
+      <div className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -128,7 +128,7 @@ function App() {
 
   if (body === 'about') {
     return (
-      <div className='App'>
+      <div className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
