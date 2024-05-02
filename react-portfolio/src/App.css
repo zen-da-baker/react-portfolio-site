@@ -31,6 +31,10 @@ h1, h2, h3, p, button, li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1, h2, h3, p, li {
+  line-height: 3rem;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -120,6 +124,11 @@ button:hover {
   border-radius: 1rem;
   margin: 0.5rem;
   padding: 0.5rem;
+  cursor: pointer;
+  background-color: hsl(40, 50%, 90%);
+}
+.card-frame:hover {
+  transform: scale(102%);
 }
 
 /* Responsive Design
