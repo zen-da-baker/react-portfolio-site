@@ -17,7 +17,11 @@ export default function Header(props) {
                 <button onClick={props.handleWriting}>Writing</button>
                 <button onClick={props.handleEducation}>Education</button>
 
-                <br/>
+                <br />
+
+                <button >Resume</button>
+
+                <br />
 
                 <button onClick={props.handleAbout}>About</button>
             </div>
