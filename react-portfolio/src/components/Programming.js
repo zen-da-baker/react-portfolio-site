@@ -21,10 +21,28 @@ export default function Programming() {
                     href='https://zinniafrazier.com/projects/meal-timer/'
                 />
 
-                <Card title='Sleep Calculator' description='React Application' />
-                <Card title='Radiant Sun' description='RPG Maker Video Game' />
-                <Card title='Quits By Ginny' description='Organization Landingpage' />
-                <Card title='Artr' description='Landing page of a social network app' />
+                <Card 
+                    title='Sleep Calculator' 
+                    description='React Application'
+                    href='https://zinniafrazier.com/projects/sleep-calculator/'
+                />
+
+                <Card 
+                    title='Radiant Sun' 
+                    description='RPG Maker Video Game' 
+                    href='https://radiantsun.net/'
+                />
+
+                <Card 
+                    title='Quits By Ginny' 
+                    description='Organization Landingpage' 
+                    href='https://quiltsbyginny.com/'
+                />
+
+                <Card 
+                    title='Artr' 
+                    description='Landing page of a social network app' 
+                />
             </div>
         </div>
     )
