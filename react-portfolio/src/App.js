@@ -41,6 +41,8 @@ function App() {
     setBody('about');
   }
 
+  
+
   if (body === 'home') {
     return (
       <div className='app'>
