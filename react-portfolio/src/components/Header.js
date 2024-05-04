@@ -12,16 +12,14 @@ export default function Header(props) {
             
             <div className='button-container'>
                 <button className='primary-btn btn' onClick={props.handleHome}>Home</button>
+                <a className='resume-btn btn' href='/resume/resume.pdf' target='_blank'>Resume</a>
+
+                <hr />
+
                 <button className='btn' onClick={props.handleArt}>Art</button>
                 <button className='btn' onClick={props.handleProgramming}>Programming</button>
                 <button className='btn' onClick={props.handleWriting}>Writing</button>
                 <button className='btn' onClick={props.handleEducation}>Education</button>
-
-                <br />
-
-                <a href='/resume/resume.pdf' target='_blank' className='btn'>Resume</a>
-
-                <br />
 
                 <button className='btn' onClick={props.handleAbout}>About</button>
             </div>

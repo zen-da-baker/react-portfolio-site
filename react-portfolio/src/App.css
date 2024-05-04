@@ -56,7 +56,9 @@ h1, h2, h3, p, li {
 .btn {
   padding: 1rem;
   margin: 1rem;
-  width: 10rem;
+  width: 12rem;
+
+  display: block;
 
   border-radius: 1rem;
   box-shadow: 0.5rem 0.5rem black;
@@ -67,6 +69,12 @@ h1, h2, h3, p, li {
 }
 .btn:hover {
   transform: scale(105%);
+}
+
+.resume-btn {
+  text-decoration: none;
+  color: black;
+  width: 10rem;
 }
 
 .primary-btn {
@@ -138,6 +146,17 @@ h1, h2, h3, p, li {
 }
 .card-frame:hover {
   transform: scale(102%);
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+hr {
+  width: 90%;
+  margin: 2rem;
 }
 
 /* Responsive Design
