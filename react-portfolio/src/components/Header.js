@@ -19,7 +19,7 @@ export default function Header(props) {
 
                 <br />
 
-                <a href='#' target='_blank' className='btn'>Resume</a>
+                <a href='/resume/resume.pdf' target='_blank' className='btn'>Resume</a>
 
                 <br />
 
