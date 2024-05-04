@@ -31,6 +31,8 @@ export default function Programming() {
                     title='Radiant Sun' 
                     description='RPG Maker Video Game' 
                     href='https://radiantsun.net/'
+                    imgSrc='images/radiantsun.png'
+                    alt='Radiant Sun gameplay'
                 />
 
                 <Card 

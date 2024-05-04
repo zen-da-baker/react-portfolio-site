@@ -134,6 +134,7 @@ h1, h2, h3, p, li {
   background-color: hsl(40, 50%, 80%);
   width: 20rem;
   height: 20rem;
+  overflow: hidden;
 }
 
 .card-frame {
@@ -146,6 +147,11 @@ h1, h2, h3, p, li {
 }
 .card-frame:hover {
   transform: scale(102%);
+}
+
+.card-img {
+  height: 100%;
+  margin: auto;
 }
 
 .button-container {
