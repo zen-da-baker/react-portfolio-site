@@ -15,7 +15,12 @@ export default function Programming() {
             <h2>Web Applications</h2>
 
             <div className='gallery'>
-                <Card title='Meal Timer' description='React Application' />
+                <Card 
+                    title='Meal Timer' 
+                    description='React Application' 
+                    href='https://zinniafrazier.com/projects/meal-timer/'
+                />
+
                 <Card title='Sleep Calculator' description='React Application' />
                 <Card title='Radiant Sun' description='RPG Maker Video Game' />
                 <Card title='Quits By Ginny' description='Organization Landingpage' />

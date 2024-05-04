@@ -43,6 +43,13 @@ h1, h2, h3, p, li {
   margin-top: 5rem;
 }
 
+.card-link {
+  text-decoration: none;
+}
+.card-link:visited {
+  color: black;
+}
+
 /* Components
 ======================================================== */
 
