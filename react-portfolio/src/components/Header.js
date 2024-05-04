@@ -11,19 +11,19 @@ export default function Header(props) {
             <h1 className='title'>Don's Portfolio</h1>
             
             <div className='button-container'>
-                <button className='primary-btn' onClick={props.handleHome}>Home</button>
-                <button onClick={props.handleArt}>Art</button>
-                <button onClick={props.handleProgramming}>Programming</button>
-                <button onClick={props.handleWriting}>Writing</button>
-                <button onClick={props.handleEducation}>Education</button>
+                <button className='primary-btn btn' onClick={props.handleHome}>Home</button>
+                <button className='btn' onClick={props.handleArt}>Art</button>
+                <button className='btn' onClick={props.handleProgramming}>Programming</button>
+                <button className='btn' onClick={props.handleWriting}>Writing</button>
+                <button className='btn' onClick={props.handleEducation}>Education</button>
 
                 <br />
 
-                <button >Resume</button>
+                <a href='#' target='_blank' className='btn'>Resume</a>
 
                 <br />
 
-                <button onClick={props.handleAbout}>About</button>
+                <button className='btn' onClick={props.handleAbout}>About</button>
             </div>
             
           
