@@ -19,12 +19,16 @@ export default function Programming() {
                     title='Meal Timer' 
                     description='React Application' 
                     href='https://zinniafrazier.com/projects/meal-timer/'
+                    imgSrc='images/mealtimer.png'
+                    alt='Meal timer all that calculates when the user should eat a meal'
                 />
 
                 <Card 
                     title='Sleep Calculator' 
                     description='React Application'
                     href='https://zinniafrazier.com/projects/sleep-calculator/'
+                    imgSrc='images/sleepcalculator.png'
+                    alt='Sleep calculator used to determine a bedtime based on the user wake up time'
                 />
 
                 <Card 
@@ -39,6 +43,8 @@ export default function Programming() {
                     title='Quits By Ginny' 
                     description='Organization Landingpage' 
                     href='https://quiltsbyginny.com/'
+                    imgSrc='images/quiltsbyginny.png'
+                    alt='The Quilts by Ginny homepage'
                 />
 
                 <Card 
