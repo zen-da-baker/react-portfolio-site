@@ -12,7 +12,7 @@ export default function Header(props) {
             
             <div className='button-container'>
                 <button className='primary-btn btn' onClick={props.handleHome}>Home</button>
-                <a className='resume-btn btn' href='/resume/resume.pdf' target='_blank'>Resume</a>
+                <a className='resume-btn btn center' href='/resume/resume.pdf' target='_blank'>Resume</a>
 
                 <hr />
 

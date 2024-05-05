@@ -10,9 +10,9 @@ import Card from './Card';
 export default function Programming() {
     return (
         <div className='app-body'>
-            <h1>Programming</h1>
+            <h1 className='center'>Programming</h1>
 
-            <h2>Web Applications</h2>
+            <h2 className='center'>Web Applications</h2>
 
             <div className='gallery'>
                 <Card 

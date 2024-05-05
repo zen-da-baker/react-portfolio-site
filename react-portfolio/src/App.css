@@ -50,6 +50,10 @@ h1, h2, h3, p, li {
   color: black;
 }
 
+.center {
+  text-align: center;
+}
+
 /* Components
 ======================================================== */
 
@@ -101,7 +105,6 @@ h1, h2, h3, p, li {
 ======================================================== */
 
 .app {
-  text-align: center;
   display: flex;
   flex-direction: row;
 }
