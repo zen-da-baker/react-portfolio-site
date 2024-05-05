@@ -43,11 +43,14 @@ export default function About() {
                     </ul>
                 </div>
             </div>
-            
-
-            
 
             <h2>Education</h2>
+
+            <div className='container'>
+                <div className='box'>
+                    <h3>University of California, Riverside</h3>
+                </div>
+            </div>
             
         </div>
     )
