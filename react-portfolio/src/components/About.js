@@ -33,7 +33,7 @@ export default function About() {
 
                 <div className='box'>
                     <h3>Gamespawn - Outreach Coordinator</h3>
-                    <p>2021  2023</p>
+                    <p>2021 - 2023</p>
 
                     <ul>
                         <li>Schedule and host speaking events for about 20 university students</li>
@@ -49,6 +49,17 @@ export default function About() {
             <div className='container'>
                 <div className='box'>
                     <h3>University of California, Riverside</h3>
+                    <p>Bachelor of Arts - History</p>
+                    <p>Bachelor or Arts - Creative Writing</p>
+                    <p>2019 - 2022</p>
+                </div>
+
+                <div className='box'>
+                    <h3>Moreno Valley College</h3>
+                    <p>Associate of Arts - Behavioral Sciences</p>
+                    <p>Associate of Arts - Communications</p>
+                    <p>Associate of Arts - Humanities</p>
+                    <p>2017 - 2019</p>
                 </div>
             </div>
             
