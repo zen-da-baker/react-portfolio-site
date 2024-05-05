@@ -5,7 +5,7 @@ import React from 'react';
 import '../App.css';
 
 // Import Card Component
-import Card from './Card';
+import ArtCard from './ArtCard';
 
 export default function Art() {
     return (
@@ -15,9 +15,13 @@ export default function Art() {
             <h2 className='center'>Art Projects</h2>
 
             <div className='gallery'>
-                <Card title='Wallpaper' description='This is a wallpaper.'/>
-                <Card />
-                <Card />
+                <ArtCard imgSrc='images/artrfooter.png' alt='test text' />
+                <ArtCard imgSrc='images/artrfooter.png' alt='test text' />
+                <ArtCard imgSrc='images/artrfooter.png' alt='test text' />
+                <ArtCard imgSrc='images/artrfooter.png' alt='test text' />
+                <ArtCard imgSrc='images/artrfooter.png' alt='test text' />
+
+                
             </div>
         </div>
     )
