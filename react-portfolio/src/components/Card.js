@@ -9,8 +9,8 @@ export default function Card(props) {
                     <img className='card-img' src={props.imgSrc} alt={props.alt} />
                 </div>
 
-                <h3>{props.title}</h3>
-                <p>{props.description}</p>
+                <h3 className='paragraph'>{props.title}</h3>
+                <p className='paragraph'>{props.description}</p>
             </a>
             
         </div>

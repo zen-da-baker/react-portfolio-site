@@ -45,7 +45,7 @@ export default function Writing() {
 
                 <Card
                     title='Corruption of the Janissaries'
-                    discription='Analysis of the military unit known as the Janissaries in the Ottoman Empire'
+                    description='Analysis of the military unit known as the Janissaries in the Ottoman Empire'
                     href='https://donovanfrazier.com/journalism/janissaries.html'
                     imgSrc='images/janissaries.jpg'
                     alt='Three janissary soldiers standing aboard a ship'
