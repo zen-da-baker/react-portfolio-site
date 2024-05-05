@@ -50,6 +50,8 @@ export default function Programming() {
                 <Card 
                     title='Artr' 
                     description='Landing page of a social network app' 
+                    imgSrc='images/artrfooter.png'
+                    alt='Artr landing page'
                 />
             </div>
         </div>
