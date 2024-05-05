@@ -109,6 +109,8 @@ h1, h2, h3, p, li {
 /* Structure
 ======================================================== */
 
+  /* App containers */
+
 .app {
   display: flex;
   flex-direction: row;
@@ -138,7 +140,7 @@ h1, h2, h3, p, li {
   flex-wrap: wrap;
 }
 
-.card {
+.card-img-container {
   background-color: hsl(40, 50%, 80%);
   width: 20rem;
   height: 20rem;
@@ -148,7 +150,8 @@ h1, h2, h3, p, li {
   align-items: center;
 }
 
-.card-frame {
+.card {
+  width: 20rem;
   border: 0.1rem solid black;
   border-radius: 1rem;
   margin: 0.5rem;
@@ -156,7 +159,7 @@ h1, h2, h3, p, li {
   cursor: pointer;
   background-color: hsl(40, 50%, 90%);
 }
-.card-frame:hover {
+.card:hover {
   transform: scale(102%);
 }
 
