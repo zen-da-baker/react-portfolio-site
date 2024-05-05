@@ -167,7 +167,6 @@ h1, h2, h3, p, li {
 
 .card {
   width: 20rem;
-  border: 0.1rem solid black;
   border-radius: 1rem;
   margin: 0.5rem;
   padding: 0.5rem;
@@ -192,7 +191,7 @@ h1, h2, h3, p, li {
   width: 40rem;
   display: block;
   margin: 0 auto;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 .card-img:hover {
   opacity: 1;
