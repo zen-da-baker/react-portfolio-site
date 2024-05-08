@@ -45,7 +45,7 @@ function App() {
 
   if (body === 'home') {
     return (
-      <div className='app'>
+      <main className='app'>
         <Header
           handleHome={handleHome}
           handleArt={handleArt}
@@ -60,13 +60,13 @@ function App() {
           handleWriting={handleWriting}
           handleEducation={handleEducation}
         />
-      </div>
+      </main>
     )
   }
 
   if (body === 'art') {
     return (
-      <div className='app'>
+      <main className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -76,13 +76,13 @@ function App() {
           handleAbout={handleAbout}
         />
         <Art />
-      </div>
+      </main>
     )
   }
 
   if (body === 'programming') {
     return (
-      <div className='app'>
+      <main className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -92,13 +92,13 @@ function App() {
           handleAbout={handleAbout}
         />
         <Programming />
-      </div>
+      </main>
     )
   }
 
   if (body === 'writing') {
     return (
-      <div className='app'>
+      <main className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -108,13 +108,13 @@ function App() {
           handleAbout={handleAbout}
         />
         <Writing />
-      </div>
+      </main>
     )
   }
 
   if (body === 'education') {
     return (
-      <div className='app'>
+      <main className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -124,13 +124,13 @@ function App() {
           handleAbout={handleAbout}
         />
         <Education />
-      </div>
+      </main>
     )
   }
 
   if (body === 'about') {
     return (
-      <div className='app'>
+      <main className='app'>
         <Header 
           handleHome={handleHome}
           handleArt={handleArt}
@@ -140,7 +140,7 @@ function App() {
           handleAbout={handleAbout}
         />
         <About />
-      </div>
+      </main>
     )
   }
 }
