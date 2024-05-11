@@ -27,11 +27,11 @@ export default function Programming() {
                 />
 
                 <Card 
-                    title='Sleep Calculator' 
-                    description='React Application'
-                    href='https://zinniafrazier.com/projects/sleep-calculator/'
-                    imgSrc='images/sleepcalculator.png'
-                    alt='Sleep calculator used to determine a bedtime based on the user wake up time'
+                    title={data.programming.program2.title}
+                    description={data.programming.program2.description}
+                    href={data.programming.program2.href}
+                    src={data.programming.program2.src}
+                    alt={data.programming.program2.alt}
                 />
 
                 <Card 
