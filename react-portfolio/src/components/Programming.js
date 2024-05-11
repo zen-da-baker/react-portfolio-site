@@ -7,6 +7,9 @@ import '../App.css';
 // Import components
 import Card from './Card';
 
+// Import database
+import data from '../database/cardData';
+
 export default function Programming() {
     return (
         <div className='app-body'>
@@ -16,11 +19,11 @@ export default function Programming() {
 
             <div className='gallery'>
                 <Card 
-                    title='Meal Timer' 
-                    description='React Application' 
-                    href='https://zinniafrazier.com/projects/meal-timer/'
-                    imgSrc='images/mealtimer.png'
-                    alt='Meal timer all that calculates when the user should eat a meal'
+                    title={data.programming.program1.title} 
+                    description={data.programming.program1.description}
+                    href={data.programming.program1.href}
+                    src={data.programming.program1.src}
+                    alt={data.programming.program1.alt}
                 />
 
                 <Card 
