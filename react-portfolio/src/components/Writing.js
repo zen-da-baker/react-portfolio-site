@@ -7,6 +7,9 @@ import '../App.css';
 // Import Card component
 import Card from './Card';
 
+// Import database
+import data from '../database/cardData';
+
 export default function Writing() {
     return (
         <div className='app-body'>
@@ -16,17 +19,17 @@ export default function Writing() {
 
             <div className='gallery'>
                 <Card 
-                    title='Caught Between Power Blocs'
-                    description='History essay on Native American peoples in the 1600s'
-                    href='https://donovanfrazier.com/journalism/nativeAmericanResistance.html'
+                    title={data.writing.article1.title}
+                    description={data.writing.article1.description}
+                    href={data.writing.article1.href}
                 />
 
                 <Card
-                    title='Tension Between Workers and Soldiers'
-                    description='History essay on the February Revolution in Imperial Russia, 1917'
-                    href='https://donovanfrazier.com/journalism/imperialRussia.html'
-                    imgSrc='images/factoryguard.jpg'
-                    alt='Workers and soliders standing before the Petrograd factory in Imperial Russia'
+                    title={data.writing.article2.title}
+                    description={data.writing.article2.description}
+                    href={data.writing.article2.href}
+                    src={data.writing.article2.src}
+                    alt={data.writing.article2.alt}
                 />
 
                 <Card 
