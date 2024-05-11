@@ -7,6 +7,9 @@ import '../App.css';
 // Import Card Component
 import ArtCard from './ArtCard';
 
+// Import Database
+import data from '../database/cardData';
+
 export default function Art() {
     return (
         <div className='app-body'>
@@ -15,9 +18,9 @@ export default function Art() {
             <h2 className='center'>Art Projects</h2>
 
             <div className='gallery'>
-                <ArtCard imgSrc='images/paintings/painting1.jpg' alt='Blue tile church' />
-                <ArtCard imgSrc='images/paintings/painting2.jpg' alt='Bread bowl' />
-                <ArtCard imgSrc='images/paintings/painting3.jpg' alt='Red hat woman' />
+                <ArtCard src={data.art.img1.src} alt={data.art.img1.alt} />
+                <ArtCard src={data.art.img2.src} alt={data.art.img2.alt} />
+                <ArtCard src={data.art.img3.src} alt={data.art.img3.alt} />
 
                 <ArtCard imgSrc='images/paintings/painting4.jpg' alt='Jinx siting down' />
                 <ArtCard imgSrc='images/paintings/painting5.jpg' alt='Woman hugging elephant' />

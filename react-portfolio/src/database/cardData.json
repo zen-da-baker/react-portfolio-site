@@ -1,0 +1,25 @@
+{
+    "art": {
+        "img1": {
+            "src": "images/paintings/painting1.jpg",
+            "alt": "tile church"
+        },
+        "img2": {
+            "src": "images/paintings/painting2.jpg",
+            "alt": "Bread bowl"
+        },
+        "img3": {
+            "src": "images/paintings/painting3.jpg",
+            "alt": "Red hat woman"
+        }
+    },
+    "programming": {
+
+    },
+    "writing": {
+
+    },
+    "education": {
+
+    }
+}
