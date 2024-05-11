@@ -37,6 +37,12 @@
         }
     },
     "education": {
-
+        "tutorial1": {
+            "title": "Get it at UC",
+            "description": "VPN access tutorial",
+            "href": "https://ucrlibraryteachingandlearning.github.io/learningobjects/getitatucweb/content/index.html#/",
+            "src": "images/getitatuc.png",
+            "alt": "Get it at UC eLearning tutorial landing page"
+        }
     }
 }

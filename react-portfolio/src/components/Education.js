@@ -7,6 +7,9 @@ import '../App.css';
 // Import components
 import Card from './Card';
 
+// Import database
+import data from '../database/cardData';
+
 export default function Education() {
     return (
         <div className='app-body'>
@@ -16,11 +19,11 @@ export default function Education() {
 
             <div className='gallery'>
                 <Card 
-                    title='Get it at UC' 
-                    description='VPN access tutorial' 
-                    href='https://ucrlibraryteachingandlearning.github.io/learningobjects/getitatucweb/content/index.html#/'
-                    imgSrc='images/getitatuc.png'
-                    alt='Get it at UC eLearning tutorial landing page'
+                    title={data.education.tutorial1.title}
+                    description={data.education.tutorial1.description}
+                    href={data.education.tutorial1.href}
+                    src={data.education.tutorial1.src}
+                    alt={data.education.tutorial1.alt}
                 />
 
                 <Card 
