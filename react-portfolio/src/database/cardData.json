@@ -20,6 +20,13 @@
             "href": "https://zinniafrazier.com/projects/meal-timer/",
             "src": "images/mealtimer.png",
             "alt": "Meal timer all that calculates when the user should eat a meal"
+        },
+        "program2": {
+            "title": "Sleep Calculator",
+            "description": "React Web Application",
+            "href": "https://zinniafrazier.com/projects/sleep-calculator/",
+            "src": "images/sleepcalculator.png",
+            "alt": "Sleep calculator used to determine a bedtime based on the user wake up time"
         }
     },
     "writing": {
