@@ -14,7 +14,13 @@
         }
     },
     "programming": {
-
+        "program1": {
+            "title": "Meal Timer", 
+            "description": "React Application",
+            "href": "https://zinniafrazier.com/projects/meal-timer/",
+            "imgSrc": "images/mealtimer.png",
+            "alt": "Meal timer all that calculates when the user should eat a meal"
+        }
     },
     "writing": {
 
