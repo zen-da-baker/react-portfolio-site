@@ -55,21 +55,21 @@
             "title": "Keyword Development",
             "description": "Search engine keyword tutorial",
             "href": "https://ucrlibraryteachingandlearning.github.io/learningobjects/keyword_development/content/index.html#/",
-            "img": "images/keyworddevelopment.png",
+            "src": "images/keyworddevelopment.png",
             "alt": "Landing page of the Keyword Development eLearning module"
         },
         "tutorial3": {
             "title": "Boolean Operators",
             "description": "Search engine strategies",
             "href": "https://ucrlibraryteachingandlearning.github.io/learningobjects/boolean_operators/content/index.html#/",
-            "img": "images/booleanoperators.png",
+            "src": "images/booleanoperators.png",
             "alt": "Boolean Operators eLearning tutorial landing page"
         }, 
         "tutorial4": {
             "title": "Call Numbers",
             "description": "Library of Congress tutorial",
             "href": "https://ucrlibraryteachingandlearning.github.io/learningobjects/call_numbers/content/index.html#/",
-            "img": "images/callnumbers.png",
+            "src": "images/callnumbers.png",
             "alt": "Call Numbers eLearning tutorial landing page"
         }
     }

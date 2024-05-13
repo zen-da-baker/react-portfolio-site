@@ -27,27 +27,27 @@ export default function Education() {
                 />
 
                 <Card 
-                    title='Keyword Development' 
-                    description='Search engine keyword tutorial' 
-                    href='https://ucrlibraryteachingandlearning.github.io/learningobjects/keyword_development/content/index.html#/'
-                    imgSrc='images/keyworddevelopment.png'
-                    alt='Landing page of the Keyword Development eLearning module'
+                    title={data.education.tutorial2.title}
+                    description={data.education.tutorial2.description}
+                    href={data.education.tutorial2.href}
+                    src={data.education.tutorial2.src}
+                    alt={data.education.tutorial2.alt}
                 />
 
                 <Card 
-                    title='Boolean Operators' 
-                    description='Search engine strategies' 
-                    href='https://ucrlibraryteachingandlearning.github.io/learningobjects/boolean_operators/content/index.html#/'
-                    imgSrc='images/booleanoperators.png'
-                    alt='Boolean Operators eLearning tutorial landing page'
+                    title={data.education.tutorial3.title}
+                    description={data.education.tutorial3.description}
+                    href={data.education.tutorial3.href}
+                    src={data.education.tutorial3.src}
+                    alt={data.education.tutorial3.alt}
                 />
 
                 <Card 
-                    title='Call Numbers' 
-                    description='Library of Congress tutorial' 
-                    href='https://ucrlibraryteachingandlearning.github.io/learningobjects/call_numbers/content/index.html#/'
-                    imgSrc='images/callnumbers.png'
-                    alt='Call Numbers eLearning tutorial landing page'
+                    title={data.education.tutorial4.title}
+                    description={data.education.tutorial4.description}
+                    href={data.education.tutorial4.href}
+                    src={data.education.tutorial4.src}
+                    alt={data.education.tutorial4.alt}
                 />
             </div>
         </div>
