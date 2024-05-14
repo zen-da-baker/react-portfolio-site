@@ -29,24 +29,24 @@
             "alt": "Sleep calculator used to determine a bedtime based on the user wake up time"
         },
         "program3": {
-            "title"='Radiant Sun' 
-                    "description"='RPG Maker Video Game' 
-                    "href"='https://radiantsun.net/'
-                    "src"='images/radiantsun.png'
-                    "alt"='Radiant Sun gameplay'
+            "title": "Radiant Sun",
+            "description": "RPG Maker Video Game",
+            "href": "https://radiantsun.net/",
+            "src": "images/radiantsun.png",
+            "alt": "Radiant Sun gameplay"
         }, 
         "program4": {
-            "title"='Quits By Ginny' 
-                    "description"='Organization Landingpage' 
-                    "href"='https://quiltsbyginny.com/'
-                    "src"='images/quiltsbyginny.png'
-                    "alt"='The Quilts by Ginny homepage'
+            "title": "Quits By Ginny",
+            "description": "Organization Landing page",
+            "href": "https://quiltsbyginny.com/",
+            "src": "images/quiltsbyginny.png",
+            "alt": "The Quilts by Ginny homepage"
         },
         "program5": {
-            "title"='Artr' 
-                    "description"='Landing page of a social network app' 
-                    "src"='images/artrfooter.png'
-                    "alt"='Artr landing page'
+            "title": "Artr",
+            "description": "Landing page of a social network app",
+            "src": "images/artrfooter.png",
+            "alt": "Artr landing page"
         }
     },
     "writing": {
