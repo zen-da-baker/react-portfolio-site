@@ -35,26 +35,26 @@ export default function Programming() {
                 />
 
                 <Card 
-                    title='Radiant Sun' 
-                    description='RPG Maker Video Game' 
-                    href='https://radiantsun.net/'
-                    imgSrc='images/radiantsun.png'
-                    alt='Radiant Sun gameplay'
+                    title={data.programming.program3.title}
+                    description={data.programming.program3.description}
+                    href={data.programming.program3.href}
+                    src={data.programming.program3.src}
+                    alt={data.programming.program3.alt}
                 />
 
                 <Card 
-                    title='Quits By Ginny' 
-                    description='Organization Landingpage' 
-                    href='https://quiltsbyginny.com/'
-                    imgSrc='images/quiltsbyginny.png'
-                    alt='The Quilts by Ginny homepage'
+                    title={data.programming.program4.title}
+                    description={data.programming.program4.description}
+                    href={data.programming.program4.href}
+                    src={data.programming.program4.src}
+                    alt={data.programming.program4.alt}
                 />
 
                 <Card 
-                    title='Artr' 
-                    description='Landing page of a social network app' 
-                    imgSrc='images/artrfooter.png'
-                    alt='Artr landing page'
+                    title={data.programming.program5.title}
+                    description={data.programming.program5.description}
+                    src={data.programming.program5.src}
+                    alt={data.programming.program5.alt}
                 />
             </div>
         </div>
