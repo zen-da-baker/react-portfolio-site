@@ -63,23 +63,23 @@
             "alt": "Workers and soliders standing before the Petrograd factory in Imperial Russia"
         },
         "article3": {
-            title='Man in the High Castle Review with Forrest Macneil'
-                    description='Semi fictional book review of Man in the High Castle'
-                    href='https://donovanfrazier.com/journalism/review.html'
+            "title": "Man in the High Castle Review with Forrest Macneil",
+            "description": "Semi fictional book review of Man in the High Castle",
+            "href": "https://donovanfrazier.com/journalism/review.html"
         },
         "article4": {
-            title='Comparative Analysis of Minh Mạng and Nguyễn Thị Bình'
-                    description='Historical analysis of two major Vietnamese figures'
-                    href='https://donovanfrazier.com/journalism/vietnam.html'
-                    imgSrc='images/vietnamMap.png'
-                    alt='Map of Dai Nam Vietname from the 1820s'
+            "title"='Comparative Analysis of Minh Mạng and Nguyễn Thị Bình'
+            "description"='Historical analysis of two major Vietnamese figures'
+            "href"='https://donovanfrazier.com/journalism/vietnam.html'
+            "src"='images/vietnamMap.png'
+            "alt"='Map of Dai Nam Vietname from the 1820s'
         },
         "article5": {
-            title='Corruption of the Janissaries'
-            description='Analysis of the military unit known as the Janissaries in the Ottoman Empire'
-            href='https://donovanfrazier.com/journalism/janissaries.html'
-            imgSrc='images/janissaries.jpg'
-            alt='Three janissary soldiers standing aboard a ship'
+            "title"='Corruption of the Janissaries'
+            "description"='Analysis of the military unit known as the Janissaries in the Ottoman Empire'
+            "href"='https://donovanfrazier.com/journalism/janissaries.html'
+            "src"='images/janissaries.jpg'
+            "alt"='Three janissary soldiers standing aboard a ship'
         />
         }
     },
