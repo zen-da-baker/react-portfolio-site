@@ -33,25 +33,25 @@ export default function Writing() {
                 />
 
                 <Card 
-                    title='Man in the High Castle Review with Forrest Macneil'
-                    description='Semi fictional book review of Man in the High Castle'
-                    href='https://donovanfrazier.com/journalism/review.html'
+                    title={data.writing.article3.title}
+                    description={data.writing.article3.description}
+                    href={data.writing.article3.href}
                 />
 
                 <Card
-                    title='Comparative Analysis of Minh Mạng and Nguyễn Thị Bình'
-                    description='Historical analysis of two major Vietnamese figures'
-                    href='https://donovanfrazier.com/journalism/vietnam.html'
-                    imgSrc='images/vietnamMap.png'
-                    alt='Map of Dai Nam Vietname from the 1820s'
+                    title={data.writing.article4.title}
+                    description={data.writing.article4.description}
+                    href={data.writing.article4.href}
+                    src={data.writing.article4.src}
+                    alt={data.writing.article4.alt}
                 />
 
                 <Card
-                    title='Corruption of the Janissaries'
-                    description='Analysis of the military unit known as the Janissaries in the Ottoman Empire'
-                    href='https://donovanfrazier.com/journalism/janissaries.html'
-                    imgSrc='images/janissaries.jpg'
-                    alt='Three janissary soldiers standing aboard a ship'
+                    title={data.writing.article5.title}
+                    description={data.writing.article5.description}
+                    href={data.writing.article5.href}
+                    src={data.writing.article5.src}
+                    alt={data.writing.article5.alt}
                 />
             </div>
         </div>
