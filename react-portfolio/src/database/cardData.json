@@ -1,18 +1,4 @@
 {
-    "art": {
-        "img1": {
-            "src": "images/paintings/painting1.jpg",
-            "alt": "tile church"
-        },
-        "img2": {
-            "src": "images/paintings/painting2.jpg",
-            "alt": "Bread bowl"
-        },
-        "img3": {
-            "src": "images/paintings/painting3.jpg",
-            "alt": "Red hat woman"
-        }
-    },
     "programming": {
         "program1": {
             "title": "Meal Timer", 
@@ -110,6 +96,32 @@
             "href": "https://ucrlibraryteachingandlearning.github.io/learningobjects/call_numbers/content/index.html#/",
             "src": "images/callnumbers.png",
             "alt": "Call Numbers eLearning tutorial landing page"
+        }
+    },
+    "art": {
+        "img1": {
+            "src": "images/paintings/painting1.jpg",
+            "alt": "tile church"
+        },
+        "img2": {
+            "src": "images/paintings/painting2.jpg",
+            "alt": "Bread bowl"
+        },
+        "img3": {
+            "src": "images/paintings/painting3.jpg",
+            "alt": "Red hat woman"
+        },
+        "img4": {
+            "src": "images/paintings/painting4.jpg",
+            "alt": "Jinx siting down"
+        },
+        "img5": {
+            "src": "images/paintings/painting5.jpg",
+            "alt": "Woman hugging elephant"
+        },
+        "img6": {
+            "src": "images/paintings/painting6.jpg",
+            "alt": "Metal pin"
         }
     }
 }
