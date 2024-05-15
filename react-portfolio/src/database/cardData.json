@@ -68,11 +68,11 @@
             "href": "https://donovanfrazier.com/journalism/review.html"
         },
         "article4": {
-            "title"='Comparative Analysis of Minh Mạng and Nguyễn Thị Bình'
-            "description"='Historical analysis of two major Vietnamese figures'
-            "href"='https://donovanfrazier.com/journalism/vietnam.html'
-            "src"='images/vietnamMap.png'
-            "alt"='Map of Dai Nam Vietname from the 1820s'
+            "title": "Comparative Analysis of Minh Mạng and Nguyễn Thị Bình",
+            "description": "Historical analysis of two major Vietnamese figures",
+            "href": "https://donovanfrazier.com/journalism/vietnam.html",
+            "src": "images/vietnamMap.png",
+            "alt": "Map of Dai Nam Vietname from the 1820s"
         },
         "article5": {
             "title"='Corruption of the Janissaries'
