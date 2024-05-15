@@ -122,6 +122,51 @@
         "img6": {
             "src": "images/paintings/painting6.jpg",
             "alt": "Metal pin"
+        },
+        "img7": {
+            src='images/paintings/painting7.jpg' alt='Heart quilt'
+        },
+        "img8": {
+            src='images/paintings/painting8.jpg' alt='Sunrise'
+        },
+        "img9": {
+            src='images/paintings/painting9.jpg' alt='Jet midflight'
+        },
+        "img10": {
+            src='images/paintings/painting10.jpg' alt='Gingerbread house'
+        },
+        "img11": {
+            src='images/paintings/painting11.jpg' alt='Bubblegum plant'
+        },
+        "img12": {
+            src='images/paintings/painting12.jpg' alt='Cinnamonrolls'
+        },
+        "img13": {
+            src='images/paintings/painting13.jpg' alt='Baguette Bread'
+        },
+        "img14": {
+            src='images/paintings/painting14.jpg' alt='Flowers glowing in a void'
+        },
+        "img15": {
+            src='images/paintings/painting15.jpg' alt='Basketball'
+        },
+        "img16": {
+            src='images/paintings/painting16.jpg' alt='Strawberry cake' 
+        },
+        "img17": {
+            src='images/paintings/painting17.jpg' alt='Dog sleeping'
+        },
+        "img18": {
+            src='images/paintings/painting18.jpg' alt='Truck in a sunrise'
+        },
+        "img19": {
+            src='images/paintings/painting19.jpg' alt='Neon portrait'
+        },
+        "img20": {
+            src='images/paintings/painting20.jpg' alt='Blue hair woman'
+        },
+        "img21": {
+            src='images/paintings/painting21.jpg' alt='Viper portrait'
         }
     }
 }
