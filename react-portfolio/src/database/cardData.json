@@ -75,12 +75,11 @@
             "alt": "Map of Dai Nam Vietname from the 1820s"
         },
         "article5": {
-            "title"='Corruption of the Janissaries'
-            "description"='Analysis of the military unit known as the Janissaries in the Ottoman Empire'
-            "href"='https://donovanfrazier.com/journalism/janissaries.html'
-            "src"='images/janissaries.jpg'
-            "alt"='Three janissary soldiers standing aboard a ship'
-        />
+            "title": "Corruption of the Janissaries",
+            "description": "Analysis of the military unit known as the Janissaries in the Ottoman Empire",
+            "href": "https://donovanfrazier.com/journalism/janissaries.html",
+            "src": "images/janissaries.jpg",
+            "alt": "Three janissary soldiers standing aboard a ship"
         }
     },
     "education": {
