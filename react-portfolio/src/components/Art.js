@@ -24,34 +24,34 @@ export default function Art() {
                 <ArtCard src={data.art.img3.src} alt={data.art.img3.alt} />
 
                 {/* Row 2 */}
-                <ArtCard src='images/paintings/painting4.jpg' alt='Jinx siting down' />
-                <ArtCard src='images/paintings/painting5.jpg' alt='Woman hugging elephant' />
-                <ArtCard src='images/paintings/painting6.jpg' alt='Metal pin' />
+                <ArtCard src={data.art.img4.src} alt={data.art.img4.alt} />
+                <ArtCard src={data.art.img5.src} alt={data.art.img5.alt} />
+                <ArtCard src={data.art.img6.src} alt={data.art.img6.alt} />
                 
                 {/* Row 3 */}
-                <ArtCard src='images/paintings/painting7.jpg' alt='Heart quilt' />
-                <ArtCard src='images/paintings/painting8.jpg' alt='Sunrise' />
-                <ArtCard src='images/paintings/painting9.jpg' alt='Jet midflight' />
+                <ArtCard src={data.art.img7.src} alt={data.art.img7.alt} />
+                <ArtCard src={data.art.img8.src} alt={data.art.img8.alt} />
+                <ArtCard src={data.art.img9.src} alt={data.art.img9.alt} />
 
                 {/* Row 4 */}
-                <ArtCard src='images/paintings/painting10.jpg' alt='Gingerbread house' />
-                <ArtCard src='images/paintings/painting11.jpg' alt='Bubblegum plant' />
-                <ArtCard src='images/paintings/painting12.jpg' alt='Cinnamonrolls' />
+                <ArtCard src={data.art.img10.src} alt={data.art.img10.alt} />
+                <ArtCard src={data.art.img11.src} alt={data.art.img11.alt} />
+                <ArtCard src={data.art.img12.src} alt={data.art.img12.alt} />
 
                 {/* Row 5 */}
-                <ArtCard src='images/paintings/painting13.jpg' alt='Baguette Bread' />
-                <ArtCard src='images/paintings/painting14.jpg' alt='Flowers glowing in a void' />
-                <ArtCard src='images/paintings/painting15.jpg' alt='Basketball' />
+                <ArtCard src={data.art.img13.src} alt={data.art.img13.alt} />
+                <ArtCard src={data.art.img14.src} alt={data.art.img14.alt} />
+                <ArtCard src={data.art.img15.src} alt={data.art.img15.alt} />
 
                 {/* Row 6 */}
-                <ArtCard src='images/paintings/painting16.jpg' alt='Strawberry cake' />
-                <ArtCard src='images/paintings/painting17.jpg' alt='Dog sleeping' />
-                <ArtCard src='images/paintings/painting18.jpg' alt='Truck in a sunrise' />
+                <ArtCard src={data.art.img16.src} alt={data.art.img16.alt} />
+                <ArtCard src={data.art.img17.src} alt={data.art.img17.alt} />
+                <ArtCard src={data.art.img18.src} alt={data.art.img18.alt} />
 
                 {/* Row 7 */}
-                <ArtCard src='images/paintings/painting19.jpg' alt='Neon portrait' />
-                <ArtCard src='images/paintings/painting20.jpg' alt='Blue hair woman' />
-                <ArtCard src='images/paintings/painting21.jpg' alt='Viper portrait' />
+                <ArtCard src={data.art.img19.src} alt={data.art.img19.alt} />
+                <ArtCard src={data.art.img20.src} alt={data.art.img20.alt} />
+                <ArtCard src={data.art.img21.src} alt={data.art.img21.alt} />
                 
             </div>
         </div>
