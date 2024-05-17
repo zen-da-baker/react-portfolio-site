@@ -17,7 +17,7 @@ import Reader from './components/Reader';
 
 function App() {
 
-  const [body, setBody] = useState('home');
+  const [body, setBody] = useState('reader');
 
   function handleHome() {
     setBody('home');
