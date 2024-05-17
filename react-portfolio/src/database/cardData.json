@@ -39,31 +39,31 @@
         "article1": {
             "title": "Caught Between Power Blocs",
             "description": "History essay on Native American peoples in the 1600s",
-            "href": "https://donovanfrazier.com/journalism/nativeAmericanResistance.html"
+            "href": "journalism/nativeAmericanResistance.html"
         },
         "article2": {
             "title": "Tension Between Workers and Soldiers",
             "description": "History essay on the February Revolution in Imperial Russia, 1917",
-            "href": "https://donovanfrazier.com/journalism/imperialRussia.html",
+            "href": "journalism/imperialRussia.html",
             "src": "images/factoryguard.jpg",
             "alt": "Workers and soliders standing before the Petrograd factory in Imperial Russia"
         },
         "article3": {
             "title": "Man in the High Castle Review with Forrest Macneil",
             "description": "Semi fictional book review of Man in the High Castle",
-            "href": "https://donovanfrazier.com/journalism/review.html"
+            "href": "journalism/review.html"
         },
         "article4": {
             "title": "Comparative Analysis of Minh Mạng and Nguyễn Thị Bình",
             "description": "Historical analysis of two major Vietnamese figures",
-            "href": "https://donovanfrazier.com/journalism/vietnam.html",
+            "href": "journalism/vietnam.html",
             "src": "images/vietnamMap.png",
             "alt": "Map of Dai Nam Vietname from the 1820s"
         },
         "article5": {
             "title": "Corruption of the Janissaries",
             "description": "Analysis of the military unit known as the Janissaries in the Ottoman Empire",
-            "href": "https://donovanfrazier.com/journalism/janissaries.html",
+            "href": "journalism/janissaries.html",
             "src": "images/janissaries.jpg",
             "alt": "Three janissary soldiers standing aboard a ship"
         }
