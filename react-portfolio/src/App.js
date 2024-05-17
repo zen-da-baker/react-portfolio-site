@@ -13,6 +13,7 @@ import Programming from './components/Programming';
 import Writing from './components/Writing';
 import Education from './components/Education';
 import About from './components/About';
+import Reader from './components/Reader';
 
 function App() {
 
@@ -42,7 +43,9 @@ function App() {
     setBody('about');
   }
 
-  function
+  function handleReader() {
+    setBody('reader')
+  }
 
   
 
@@ -143,6 +146,22 @@ function App() {
           handleAbout={handleAbout}
         />
         <About />
+      </main>
+    )
+  }
+
+  if (body === 'reader') {
+    return (
+      <main className='app'>
+        <Header
+          handleHome={handleHome}
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Reader />
       </main>
     )
   }
