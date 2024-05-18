@@ -5,7 +5,7 @@ import React from 'react';
 import '../App.css';
 
 // Import Card component
-import Card from './Card';
+import ArticleCard from './ArticleCard';
 
 // Import database
 import data from '../database/cardData';
@@ -15,13 +15,14 @@ export default function Writing(props) {
         <div className='app-body'>
             <h1 className='center'>Writing</h1>
 
-            <h2 className='center'>Short Stories</h2>
+            <h2 className='center'>Articles</h2>
 
             <div className='gallery'>
-                <Card 
+                <ArticleCard 
                     title={data.writing.article1.title}
                     description={data.writing.article1.description}
-                    href={data.writing.article1.href}
+                    
+                    handler={props.handleNativeAmericanResistance}
                 />
 
                 <Card
