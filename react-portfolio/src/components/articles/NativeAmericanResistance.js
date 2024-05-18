@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function NativeAmericanResistance() {
     return (
-        <div className="content">
+        <article className="content">
         
         <h1 className="center-div">Caught Between Power Blocs</h1>
 
@@ -73,6 +73,6 @@ export default function NativeAmericanResistance() {
         </div>
 
 
-    </div>
+    </article>
     )
 }

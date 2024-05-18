@@ -28,31 +28,38 @@ export default function Writing(props) {
                 <ArticleCard
                     title={data.writing.article2.title}
                     description={data.writing.article2.description}
-                    href={data.writing.article2.href}
+                    
                     src={data.writing.article2.src}
                     alt={data.writing.article2.alt}
+
+                    handler={props.handleImperialRussia}
                 />
 
                 <ArticleCard 
                     title={data.writing.article3.title}
                     description={data.writing.article3.description}
-                    href={data.writing.article3.href}
+                    
+                    handler={props.handleReview}
                 />
 
                 <ArticleCard
                     title={data.writing.article4.title}
                     description={data.writing.article4.description}
-                    href={data.writing.article4.href}
+                    
                     src={data.writing.article4.src}
                     alt={data.writing.article4.alt}
+
+                    handler={props.handleVietnam}
                 />
 
                 <ArticleCard
                     title={data.writing.article5.title}
                     description={data.writing.article5.description}
-                    href={data.writing.article5.href}
+                    
                     src={data.writing.article5.src}
                     alt={data.writing.article5.alt}
+
+                    handler={props.handleJanissaries}
                 />
             </div>
         </div>

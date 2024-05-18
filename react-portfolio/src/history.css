@@ -8,10 +8,25 @@ p {
     font-size:20px;
     padding-bottom:10px;
 }
+
+.content {
+    width: 75%;
+}
+
+.article-img {
+    width: 75%;
+    position: relative;
+    left: 100px;
+}
+
+article {
+    padding: 0 8rem;
+
+}
+
 .center-div {
-    margin:auto;
+    margin: auto;
     padding: 10px;
-    width:75%;
 }
 .center-div p {
     line-height:1.5;

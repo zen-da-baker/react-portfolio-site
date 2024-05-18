@@ -74,7 +74,9 @@ h1, h2, h3, p, li {
   border-radius: 1rem;
   box-shadow: 0.5rem 0.5rem black;
 
-  background-color: hsl(40, 20%, 90%);
+  background-color: hsl(40, 20%, 75%);
+
+  color: black;
 
   cursor: pointer;
 }

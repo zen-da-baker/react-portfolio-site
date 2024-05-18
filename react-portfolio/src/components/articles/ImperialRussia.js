@@ -3,14 +3,14 @@ import React from 'react';
 
 export default function ImperialRussia() {
     return (
-    <div className="content">
+    <article className="content">
 
 
         
         <h1 className="center-div">Tension Between Workers and Soldiers</h1>
 
         <div className="center-div">
-            <img src="../images/factoryguard.jpg"/>
+            <img className='article-img' src="../images/factoryguard.jpg" alt='Workers and soliders standing before the Petrograd factory in Imperial Russia' />
             <figcaption>Factory workers and soldiers forming a guard for the <a href="https://commons.wikimedia.org/wiki/File:Red_Guard_Vulkan_factory.jpg"> Vulkan Factory</a> in Petrograd.</figcaption>
         </div>
 
@@ -219,6 +219,6 @@ export default function ImperialRussia() {
         </div>
 
 
-    </div>    
+    </article>    
     )
 }

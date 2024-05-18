@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Review() {
     return (
-    <div className="content">
+    <article className="content">
         
         <h1 className="center-div">Man in the High Castle - Book "Review" with Forrest Macneil</h1>
 
@@ -109,6 +109,6 @@ export default function Review() {
         </div>
 
 
-    </div>
+    </article>
     )
 }

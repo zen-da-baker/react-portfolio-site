@@ -3,13 +3,13 @@ import React from 'react';
 
 export default function Vietnam() {
     return (
-    <div className="content">
+    <article className="content">
         
         <h1 className="center-div">Comparative Analysis of Minh Mạng and Nguyễn Thị Bình</h1>
 
         <div className="center-div">
-            <img src="../images/vietnamMap.png"/>
-            <figcaption>Map of <a href="https://commons.wikimedia.org/wiki/File:Nguyen_Dynasty,_administrative_divisions_map_(1838).svg">Đại Nam</a> in 1838 during the rule of Minh Mạng.</figcaption>
+            <img className='article-img' src="../images/vietnamMap.png"/>
+            <figcaption>Map of <a href="https://commons.wikimedia.org/wiki/File:Nguyen_Dynasty,_administrative_divisions_map_(1838).svg" alt='Map of Dai Nam Vietname from the 1820s'>Đại Nam</a> in 1838 during the rule of Minh Mạng.</figcaption>
         </div>
 
         <div className="center-div">
@@ -145,6 +145,6 @@ export default function Vietnam() {
             <p>If you wish to return to the orignal portfolio page, feel free to use the links in the footer to return to that section of the website</p>
         </div>
 
-    </div>
+    </article>
     )
 }
