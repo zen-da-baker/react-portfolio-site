@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Vietnam() {
     return (
-        <div className="content">
+    <div className="content">
         
         <h1 className="center-div">Comparative Analysis of Minh Mạng and Nguyễn Thị Bình</h1>
 
@@ -123,15 +123,15 @@ export default function Vietnam() {
 
             <h3>Bibliography</h3>
             <p>Goscha, Vietnam: A New History. New York: Basic Books, Hachette Book Group, Inc. 2016.</p>
-            <p>“Minh Mạng,” Wikipedia. Accessed Oct 10th, 2021. <br>
+            <p>“Minh Mạng,” Wikipedia. Accessed Oct 10th, 2021. <br/>
                 https://en.wikipedia.org/wiki/Minh_M%E1%BA%A1ng</p>
-            <p>“Nguyễn Thị Bình,” Wikipedia. Accessed Oct 10th, 2021. <br>
+            <p>“Nguyễn Thị Bình,” Wikipedia. Accessed Oct 10th, 2021. <br/>
                 https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_B%C3%ACnh</p>
-            <p>Whitefield, Danny J. Historical and Cultural Dictionary of Vietnam. Metuchen, New Jersey: <br>
+            <p>Whitefield, Danny J. Historical and Cultural Dictionary of Vietnam. Metuchen, New Jersey: <br/>
                 The Scarecrow Press, Inc. 1976.</p>
-            <p>Wook, Choi Byung. Southern Vietnam under the Reign of Minh Mang (1820-1841), Central <br>
+            <p>Wook, Choi Byung. Southern Vietnam under the Reign of Minh Mang (1820-1841), Central <br/>
                 Policies and Local Response. Ithaca, New York: Cornell University, 2004.</p>
-            <p>Wu, Judy Tzu-Chun. Radicals on the Road, Internationalism, Orientalism, and Feminism during <br>
+            <p>Wu, Judy Tzu-Chun. Radicals on the Road, Internationalism, Orientalism, and Feminism during <br/>
                 the Vietnam Era. Ithaca, New York and London, England: Cornell University Press, 2013.</p>
 
         </div>
