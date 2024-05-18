@@ -8,16 +8,24 @@ import './history.css';
 // Import Components
 import Header from './components/Header';
 import Home from './components/Home';
+
 import Art from './components/Art';
 import Programming from './components/Programming';
 import Writing from './components/Writing';
 import Education from './components/Education';
 import About from './components/About';
+
 import Reader from './components/Reader';
+
+import Janissaries from './components/articles/Janissaries';
+import ImperialRussia from './components/articles/ImperialRussia';
+import NativeAmericanResistance from './components/articles/NativeAmericanResistance';
+import Review from './components/articles/Review';
+import Vietnam from './components/articles/Vietnam';
 
 function App() {
 
-  const [body, setBody] = useState('reader');
+  const [body, setBody] = useState('home');
 
   function handleHome() {
     setBody('home');
@@ -43,9 +51,11 @@ function App() {
     setBody('about');
   }
 
-  function handleReader() {
-    setBody('reader')
+  function handleJanissaries() {
+    setBody('janissaries')
   }
+
+  function
 
   
 
