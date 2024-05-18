@@ -25,8 +25,10 @@ import Vietnam from './components/articles/Vietnam';
 
 function App() {
 
+  // Body page states
   const [body, setBody] = useState('home');
 
+  // Body page handler functions using states
   function handleHome() {
     setBody('home');
   }
@@ -52,13 +54,27 @@ function App() {
   }
 
   function handleJanissaries() {
-    setBody('janissaries')
+    setBody('janissaries');
   }
 
-  function
+  function handleImperialRussia() {
+    setBody('imperialRussia');
+  }
+
+  function handleNativeAmericanResistance() {
+    setBody('nativeAmericanResistance');
+  }
+
+  function handleReview() {
+    setBody('review');
+  }
+
+  function handleVietnam() {
+    setBody('vietnam');
+  }
 
   
-
+  // Layout page based on states
   if (body === 'home') {
     return (
       <main className='app'>
