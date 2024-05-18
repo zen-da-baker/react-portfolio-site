@@ -4,8 +4,6 @@ import React from 'react';
 export default function Janissaries() {
     return (
         <article className="content">
-
-
         
         <h1 className="center-div">Corruption of the Janissaries</h1>
 
