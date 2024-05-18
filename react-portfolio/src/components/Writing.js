@@ -25,7 +25,7 @@ export default function Writing(props) {
                     handler={props.handleNativeAmericanResistance}
                 />
 
-                <Card
+                <ArticleCard
                     title={data.writing.article2.title}
                     description={data.writing.article2.description}
                     href={data.writing.article2.href}
@@ -33,13 +33,13 @@ export default function Writing(props) {
                     alt={data.writing.article2.alt}
                 />
 
-                <Card 
+                <ArticleCard 
                     title={data.writing.article3.title}
                     description={data.writing.article3.description}
                     href={data.writing.article3.href}
                 />
 
-                <Card
+                <ArticleCard
                     title={data.writing.article4.title}
                     description={data.writing.article4.description}
                     href={data.writing.article4.href}
@@ -47,7 +47,7 @@ export default function Writing(props) {
                     alt={data.writing.article4.alt}
                 />
 
-                <Card
+                <ArticleCard
                     title={data.writing.article5.title}
                     description={data.writing.article5.description}
                     href={data.writing.article5.href}

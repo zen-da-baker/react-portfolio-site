@@ -11,7 +11,9 @@ export default function ArticleCard(props) {
             <h3 className='paragraph'>{props.title}</h3>
             <p className='paragraph'>{props.description}</p>
 
-            <button className='btn' onClick={props.handler}>View Article</button>
+            <div className='container'>
+                <button className='btn' onClick={props.handler}>View Article</button>
+            </div>
         </div>
     )
 }
