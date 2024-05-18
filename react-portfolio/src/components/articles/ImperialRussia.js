@@ -10,7 +10,7 @@ export default function ImperialRussia() {
         <h1 className="center-div">Tension Between Workers and Soldiers</h1>
 
         <div className="center-div">
-            <img src="../images/factoryguard.jpg" style="width:500px"/>
+            <img src="../images/factoryguard.jpg"/>
             <figcaption>Factory workers and soldiers forming a guard for the <a href="https://commons.wikimedia.org/wiki/File:Red_Guard_Vulkan_factory.jpg"> Vulkan Factory</a> in Petrograd.</figcaption>
         </div>
 

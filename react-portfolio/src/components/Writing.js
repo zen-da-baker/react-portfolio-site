@@ -10,7 +10,7 @@ import Card from './Card';
 // Import database
 import data from '../database/cardData';
 
-export default function Writing() {
+export default function Writing(props) {
     return (
         <div className='app-body'>
             <h1 className='center'>Writing</h1>

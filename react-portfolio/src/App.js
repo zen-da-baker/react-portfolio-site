@@ -15,8 +15,6 @@ import Writing from './components/Writing';
 import Education from './components/Education';
 import About from './components/About';
 
-import Reader from './components/Reader';
-
 import Janissaries from './components/articles/Janissaries';
 import ImperialRussia from './components/articles/ImperialRussia';
 import NativeAmericanResistance from './components/articles/NativeAmericanResistance';
@@ -26,7 +24,7 @@ import Vietnam from './components/articles/Vietnam';
 function App() {
 
   // Body page states
-  const [body, setBody] = useState('home');
+  const [body, setBody] = useState('vietnam');
 
   // Body page handler functions using states
   function handleHome() {
@@ -139,7 +137,13 @@ function App() {
           handleEducation={handleEducation}
           handleAbout={handleAbout}
         />
-        <Writing />
+        <Writing 
+          handleJanissaries={handleJanissaries}
+          handleImperialRussia={handleImperialRussia}
+          handleNativeAmericanResistance={handleNativeAmericanResistance}
+          handleReview={handleReview}
+          handleVietnam={handleVietnam}
+        />
       </main>
     )
   }
@@ -176,7 +180,7 @@ function App() {
     )
   }
 
-  if (body === 'reader') {
+  if (body === 'janissaries') {
     return (
       <main className='app'>
         <Header
@@ -187,7 +191,71 @@ function App() {
           handleEducation={handleEducation}
           handleAbout={handleAbout}
         />
-        <Reader />
+        <Janissaries />
+      </main>
+    )
+  }
+
+  if (body === 'imperialRussia') {
+    return (
+      <main className='app'>
+        <Header
+          handleHome={handleHome}
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <ImperialRussia />
+      </main>
+    )
+  }
+
+  if (body === 'nativeAmericanResistance') {
+    return (
+      <main className='app'>
+        <Header
+          handleHome={handleHome}
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <NativeAmericanResistance />
+      </main>
+    )
+  }
+
+  if (body === 'review') {
+    return (
+      <main className='app'>
+        <Header 
+          handleHome={handleHome}
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Review />
+      </main>
+    )
+  }
+
+  if (body === 'vietnam') {
+    return (
+      <main className='app'>
+        <Header
+          handleHome={handleHome}
+          handleArt={handleArt}
+          handleProgramming={handleProgramming}
+          handleWriting={handleWriting}
+          handleEducation={handleEducation}
+          handleAbout={handleAbout}
+        />
+        <Vietnam />
       </main>
     )
   }
