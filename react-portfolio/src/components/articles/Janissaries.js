@@ -10,7 +10,7 @@ export default function Janissaries() {
         <h1 className="center-div">Corruption of the Janissaries</h1>
 
         <div class="center-div">
-            <img src="../images/janissary.jpg"/>
+            <img src="../images/janissaries.jpg"/>
             <figcaption>Janissaries standing aboard a ship in <a href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/"> brightly colored</a> attire.</figcaption>
         </div>
 
