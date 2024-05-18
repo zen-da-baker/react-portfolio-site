@@ -3,56 +3,22 @@ import React from 'react';
 
 export default function ImperialRussia() {
     return (
-        <div className="content">
-        <div class="header" id="myHeader">
-            <div class="navbar">
-                
-                <a href="historyHome.html" class="btn"><i class="fa fa-newspaper-o"></i> Mock Journalism Home</a>
-                <a href="../portfolio.html" class="btn"><i class="fa fa-clone"></i> Portfolio</a>
-            
-
-            <div class="dropdown">
-                <button class="dropbtn">Articles
-                    <i class="fa fa-caret-down"></i>
-                </button>
-
-                <div class="dropdown-content">
-                    <a href="janissaries.html">Janissaries</a>
-                    <a href="africa.html">Africa</a>
-                    <a href="imperialRussia.html">Imperial Russia</a>
-                    <a href="nativeAmericanResistance.html">Native American Resistance Movements</a>
-                    <a href="vietnam.html">Vietnam</a>
-                </div>
-            </div>
-            
-            <div class="right-header">
-                <button type="button" onclick="toggleDarkMode();toggleButtonStyle()" id="modeButton" class="btn"><i class="fa fa-moon-o"></i> Dark Mode</button>
-            </div>
-            
-            <div class="center-header">
-                <a href="../index.html"><span></span>Donovan Frazier</a>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-    <div class="content">
+    <div className="content">
 
 
         
-        <h1 class="center-div" style="padding-top:100px;">Tension Between Workers and Soldiers</h1>
+        <h1 className="center-div">Tension Between Workers and Soldiers</h1>
 
-        <div class="center-div">
-            <img src="../images/factoryGuard.jpg" style="width:500px">
+        <div className="center-div">
+            <img src="../images/factoryGuard.jpg" style="width:500px"/>
             <figcaption>Factory workers and soldiers forming a guard for the <a href="https://commons.wikimedia.org/wiki/File:Red_Guard_Vulkan_factory.jpg"> Vulkan Factory</a> in Petrograd.</figcaption>
         </div>
 
-        <div class="center-div">
+        <div className="center-div">
             <figcaption><a href="../index.html">Donovan Frazier</a> | June 6, 2022 | Updated Feb 25, 2023</figcaption>
         </div>
 
-        <div class="center-div">
+        <div className="center-div">
             <p>The months after the February Revolution was a period of splintering change in the relationship between workers and soldiers in Petrograd. 
                 The revolution itself was a unifying force in which soldiers and workers generally allied in a single cause, to take down the Tsarist government. 
                 The months after the revolution led to splits between individual army regiments and individual factories. Each of these groups of workers and 
@@ -244,7 +210,7 @@ export default function ImperialRussia() {
                 
         </div>
 
-        <div class="center-div">
+        <div className="center-div">
             <button>View Comments (This is just a test feature, not actual comments)</button>
         </div>
 
@@ -253,34 +219,6 @@ export default function ImperialRussia() {
         </div>
 
 
-    </div>
-
-    <script src="../JavaScript/darkMode.js"></script>
-        
-            
-</body>
-        
- <footer>
-    <ul class="footer">
-        <li class="footer"><a href="../index.html">Home</a></li>
-        <li class="footer"><a href="../Resume.pdf" target="_blank">Resume</a></li>
-        <li class="footer"><a href="../portfolio.html">Portfolio</a></li>
-        <li class="footer"><a href="../contact.html">Contact</a></li>
-        <li class="footer"><a href="https://www.linkedin.com/in/donovan-frazier-8758b41ba/">Linkedin</a></li>
-
-        <li class="footer"><a href="../education.html">Education</a></li>
-        <li class="footer"><a href="../about.html">About</a></li>
-        <li class="footer"><a href="../awards_and_publications.html">Awards and Publications</a></li>
-        <li class="footer"><a href="../portfolioProjects/tech_talks.html">Tech Talks</a></li>
-        <li class="footer"><a href="../notion.html">Notion</a></li>
-        <li class="footer"><a href="../WebApps.html">Web Apps</a></li>
-    </ul>
-
-    <br><br><br><br><br>
-
-    <p class="center-div" style="color:white; padding-bottom:20px; text-align:center;">
-        &copy;<em id="date"></em>2023 by Donovan Frazier
-    </p>
- </footer>       
+    </div>    
     )
 }
