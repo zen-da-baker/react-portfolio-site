@@ -9,11 +9,18 @@ export default function Janissaries() {
 
         <div class="center-div">
             <img className='article-img' src="../images/janissaries.jpg" alt='Three janissary soldiers standing aboard a ship' />
-            <figcaption>Janissaries standing aboard a ship in <a href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/" rel='noreferrer' target='_blank'> brightly colored</a> attire.</figcaption>
+            <figcaption>
+                Janissaries standing aboard a ship in 
+                <a href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/" rel='noreferrer' target='_blank'> 
+                brightly colored</a> 
+                attire.
+            </figcaption>
         </div>
 
         <div class="center-div">
-            <figcaption><a href="../index.html">Donovan Frazier</a> | Nov 26, 2022 | Updated Feb 25, 2023</figcaption>
+            <figcaption>
+                <a href="../index.html">Donovan Frazier</a> | Nov 26, 2022 | Updated Feb 25, 2023
+            </figcaption>
         </div>
 
         <div className="center-div">
@@ -24,7 +31,8 @@ export default function Janissaries() {
                 at this in their early days as seen with the conquest of Constantinople, now Istanbul, and other 
                 border territories in Eastern Europe and North Africa. Much of their success came from being the 
                 largest standing army in the territories they invaded and their use of gunpowder weapons such as 
-                rifles and cannons.<sup>[<a href="http://www.jstor.org/stable/23906961" rel='noreferrer' target="_blank">1</a>]</sup> 
+                rifles and cannons.
+                <sup>[<a href="http://www.jstor.org/stable/23906961" rel='noreferrer' target="_blank">1</a>]</sup> 
                 Being a large and highly armed army gave the janissaries a unique status as a 
                 formidable force. Towards the end of their utilization, the janissaries as with any people found 
                 ways to erode their original purpose and defy their code for personal gain. Several sultans had 
@@ -32,67 +40,82 @@ export default function Janissaries() {
                 disobedience which halted further reforms of the empire. Despite the strict codes and harsh 
                 punishments for disloyalty to the sultan, the janissaries had become a hinderance to the empire 
                 modernizing in a way the sultans’ were seeking rather than a tool for the sultans. They were 
-                disbanded officially by Sultan Mahmud II in 1826 in an event that was known as the “Auspicious Event.”<sup>[<a href="http://www.jstor.org/stable/10.3366/j.ctv2f4vjf5.6" rel='noreferrer' target="_blank">2</a>]</sup> 
+                disbanded officially by Sultan Mahmud II in 1826 in an event that was known as the “Auspicious Event.”
+                <sup>[<a href="http://www.jstor.org/stable/10.3366/j.ctv2f4vjf5.6" rel='noreferrer' target="_blank">2</a>]</sup> 
                 The corruption of the janissaries was the primary cause of sultans seeking to replace 
                 them and established a new army that was perceived as more loyal.</p>
 
-                <figcaption>[1] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN.” Social Science 6, no. 4 (1931): 399,
-                    http://www.jstor.org/stable/23906961.</figcaption>
+                <figcaption>
+                    [1] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN.” Social Science 6, no. 4 (1931): 399,
+                    http://www.jstor.org/stable/23906961.
+                </figcaption>
 
                     <br/>
 
-                <figcaption>[2] Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” in Ruler 
+                <figcaption>
+                    [2] Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” in Ruler 
                     Visibility and Popular Belonging in the Ottoman Empire, 1808-1908. (Edinburgh: Edinburgh University Press, 
                     2019) 16. http://www.jstor.org/stable/10.3366/j.ctv2f4vjf5.6.
-                    </figcaption>
+                </figcaption>
 
                     <br/>
 
             <p>The original purpose of the janissaries was to have absolute obedience to the Sultan.
                 From the time the janissaries were young boys, voynuks, Ottoman agents for the sultan, were 
-                sent to the Christian borderlands.<sup>[<a href="http://www.jstor.org/stable/27696448" rel='noreferrer' target="_blank">3</a>]</sup> 
+                sent to the Christian borderlands.
+                <sup>[<a href="http://www.jstor.org/stable/27696448" rel='noreferrer' target="_blank">3</a>]</sup> 
                 The boys would be taken and enslaved directly to the sultan as 
                 a means to have absolute loyalty to him alone. They were not supposed to have loyalty to anyone 
                 else in the empire including their own families in the borderlands. Unlike ordinary slaves that 
-                were emancipated after a decade of servitude, the janissaries were never emancipated.<sup>[<a href="http://www.jstor.org/stable/j.ctt6wp6pg.7" rel='noreferrer' target="_blank">4</a>]</sup> 
+                were emancipated after a decade of servitude, the janissaries were never emancipated.
+                <sup>[<a href="http://www.jstor.org/stable/j.ctt6wp6pg.7" rel='noreferrer' target="_blank">4</a>]</sup> 
                 They were owned by the sultan for their entire lives. In exchange, they were compensated in silver and 
                 were provided military privileges such as the ability to bear weapons in both times of peace and 
                 war. They would receive education in and converted to Islam. This was meant to spread Islam 
-                for the empire.<sup>[5]</sup> 
+                for the empire.
+                <sup>[5]</sup> 
                 The youth were also training in combat, sometimes at the palace and other times 
                 at Gallipoli. After training, they wore brightly colored clothing and a lion insignia to demonstrate 
                 that they were janissaries. Additionally, they had color coded boots to display their ranks. 
-                Janissaries wore red while their officers wore black.<sup>[<a href="https://doi.org/10.1080/03071849309417737" rel='noreferrer' target="_blank">6</a>]</sup> 
+                Janissaries wore red while their officers wore black.
+                <sup>[<a href="https://doi.org/10.1080/03071849309417737" rel='noreferrer' target="_blank">6</a>]</sup> 
                 They were then permanently or temporarily 
                 assigned to barracks in major cities for the defense of those cities. Alternatively, they could be 
                 called on by the sultan for a conquest of the Christian borderlands. The janissaries were well 
                 organized and trained since their youth for the purpose of serving the sultan.</p>
 
-                <figcaption>[3]  Evgeni Radushev, “‘Peasant’ Janissaries?,” Journal of Social History 42, no. 2 (2008): 447,
+                <figcaption>
+                    [3] Evgeni Radushev, “‘Peasant’ Janissaries?,” Journal of Social History 42, no. 2 (2008): 447,
                     http://www.jstor.org/stable/27696448.
-                     </figcaption>
+                </figcaption>
 
                      <br/>
                 
-                <figcaption>[4]  Gilles Veinstein, “On the Ottoman Janissaries (Fourteenth-Nineteenth Centuries),” in Fighting for a Living: A 
+                <figcaption>
+                    [4] Gilles Veinstein, “On the Ottoman Janissaries (Fourteenth-Nineteenth Centuries),” in Fighting for a Living: A 
                     Comparative Study of Military Labour 1500-2000. Edited by Erik-Jan Zürcher (Amsterdam: Amsterdam University 
-                    Press, 2013), 126. http://www.jstor.org/stable/j.ctt6wp6pg.7 </figcaption>
+                    Press, 2013), 126. http://www.jstor.org/stable/j.ctt6wp6pg.7 
+                </figcaption>
 
                     <br/>
                 
-                <figcaption>[5]  Radushev, “’Peasant’ Janissaries?,” 452. </figcaption>
+                <figcaption>
+                    [5] Radushev, “’Peasant’ Janissaries?,” 452. 
+                </figcaption>
 
                     <br/>
 
-                <figcaption>[6]  Major General F.H. Tyrrell, “The Turkish Janissaries,” Royal United Services Institution 37, no. 180 (2009): 141, 
-                    https://doi.org/10.1080/03071849309417737. </figcaption>
+                <figcaption>[6] Major General F.H. Tyrrell, “The Turkish Janissaries,” Royal United Services Institution 37, no. 180 (2009): 141, 
+                    https://doi.org/10.1080/03071849309417737. 
+                </figcaption>
 
                     <br/>
 
             <p>Though the janissaries were primarily Christian children in the borderlands of the empire, 
                 there were a couple of ways other individuals could become janissaries. One way was that the 
                 irregular fighting forces who would normally wear yellow boots and weren’t as prestigious as the 
-                janissaries could be promoted to become a janissary.<sup>[7]</sup> 
+                janissaries could be promoted to become a janissary.
+                <sup>[7]</sup> 
                 It may sound counterintuitive for a lower 
                 ranking soldier to be promoted into an enslavement but for the Ottoman Empire, serving the 
                 sultan as a slave was a prestigious position that was considered higher in the social structure than 
@@ -101,44 +124,58 @@ export default function Janissaries() {
                 from a very young age to be loyal to the sultan as the standard soldiers promoted to janissaries 
                 could have a vastly different upbringing from the regular janissaries with possible implications.</p>
 
-                <figcaption>[7]  Major General F.H. Tyrrell, “The Turkish Janissaries,” 143.</figcaption>
+                <figcaption>
+                    [7] Major General F.H. Tyrrell, “The Turkish Janissaries,” 143.
+                </figcaption>
 
                 <br/>
 
             <p>Another means for other individuals to become janissaries was when the sons of 
-                janissaries were allowed to enter the ranks of the father janissaries.<sup>[8]</sup> 
+                janissaries were allowed to enter the ranks of the father janissaries.
+                <sup>[8]</sup> 
                 The original purpose of this 
                 was to have the fighting forces of the janissaries continue recruiting their own replacements 
                 rather than having solely children captured in the borderlands. This may have contributed to the 
-                increase in size of the janissary corps<sup>[9]</sup>
+                increase in size of the janissary corps
+                <sup>[9]</sup>
                 however there are other implications of this system that 
                 will be explored later but this system was meant to uphold the loyalty of the janissaries. 
                 Betraying the sultan would mean betraying your family as well.</p>
 
-                <figcaption>[8] Major General F.H. Tyrrell, “The Turkish Janissaries,” 143.</figcaption>
+                <figcaption>
+                    [8] Major General F.H. Tyrrell, “The Turkish Janissaries,” 143.
+                </figcaption>
 
                 <br/>
 
-                <figcaption>[9] Gilles Veinstein, “On the Ottoman Janissaries (Fourteenth-Nineteenth Centuries),” 120.</figcaption>
+                <figcaption>
+                    [9] Gilles Veinstein, “On the Ottoman Janissaries (Fourteenth-Nineteenth Centuries),” 120.
+                </figcaption>
 
                 <br/>
 
             <p>To go against the sultan meant going against the very purpose and origin of the 
                 janissaries. In their 14-point code of conduct, the first code is to have absolute obedience to the
-                sultan.<sup>[10]</sup> 
+                sultan.
+                <sup>[10]</sup> 
                 Breaking this code or any other code resulted in punishments by the officers that ranged 
                 from a couple days in jail all the way up to execution by decapitation in the sultan’s palace in 
                 Istanbul. Execution was the highest punishment and was accompanied by a rifle being shot from 
-                the palace to signify to the other janissaries in the barracks that the punishment had been delt.<sup>[11]</sup>
+                the palace to signify to the other janissaries in the barracks that the punishment had been delt.
+                <sup>[11]</sup>
                 The janissaries had very short and clear codes for them to be obedient to the sultan, enslavement, 
                 an upbringing from childhood to serve the sultan, and harsh punishments for their betrayal. They 
                 were supposed to be the most loyal, brave, and selfless fighting force possible.</p>
 
-                <figcaption>[10] Major General F.H. Tyrrell, “The Turkish Janissaries,” 139.</figcaption>
+                <figcaption>
+                    [10] Major General F.H. Tyrrell, “The Turkish Janissaries,” 139.
+                </figcaption>
 
                 <br/>
 
-                <figcaption>[11] Major General F.H. Tyrrell, “The Turkish Janissaries,” 139.</figcaption>
+                <figcaption>
+                    [11] Major General F.H. Tyrrell, “The Turkish Janissaries,” 139.
+                </figcaption>
 
                 <br/>
 
@@ -152,12 +189,15 @@ export default function Janissaries() {
                 become janissaries as well. This system may have been intended for the janissaries to have 
                 tighter bonds with their units to maintain loyalty to each other as well as the sultan. This wasn’t 
                 always the case as the janissaries at times listed their son on the unit rosters when the sons were 
-                still infants.<sup>[12]</sup> 
+                still infants.
+                <sup>[12]</sup> 
                 The fathers would collect their pay and the pay intended for the son. In effect, the 
                 janissaries were double dipping into the funds of the empire. This shows that the janissaries were 
                 capable and willing to exploit loopholes in their code.</p>
 
-                <figcaption>[12] Major General F.H. Tyrrell, “The Turkish Janissaries,” 144.</figcaption>
+                <figcaption>
+                    [12] Major General F.H. Tyrrell, “The Turkish Janissaries,” 144.
+                </figcaption>
 
                 <br/>
 
@@ -165,42 +205,54 @@ export default function Janissaries() {
                 janissaries weren’t allowed to pursue a trade. They were strictly a professional military force, not 
                 meant to take part in civilian affairs. This was not upheld as the janissaries often took civilian 
                 jobs outside of their main duties. In Istanbul for example, some janissaries used their spare time 
-                to run coffee houses.<sup>[13]</sup> 
+                to run coffee houses.
+                <sup>[13]</sup> 
                 Jobs like these were completely outside of the military duties of the janissaries.</p>
 
-                <figcaption>[13] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 400.</figcaption>
+                <figcaption>
+                    [13] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 400.
+                </figcaption>
 
                 <br/>
 
             <p>Another code that the janissaries broke was the mandate that they must live inside their 
                 barracks exclusively. They didn’t always do this. In the later days of their existence, the 
                 janissaries often married lived outside of the barracks in exchange for not having access to 
-                rations.<sup>[14]</sup> 
+                rations.
+                <sup>[14]</sup> 
                 The janissaries even owned land and cultivated that land. Both working the coffee 
-                houses and owning land<sup>[15]</sup> 
+                houses and owning land
+                <sup>[15]</sup> 
                 demonstrated that the janissaries had a variety of interests outside of
                 their military duties that they were able to pursue without punishment as their code enforcement 
                 relaxed.</p>
 
-                <figcaption>[14] Major General F.H. Tyrrell, “The Turkish Janissaries,” 144.</figcaption>
+                <figcaption>
+                    [14] Major General F.H. Tyrrell, “The Turkish Janissaries,” 144.
+                </figcaption>
 
                 <br/>
 
-                <figcaption>[15] Evgeni Radushev, “‘Peasant’ Janissaries?,” 454.</figcaption>
+                <figcaption>
+                    [15] Evgeni Radushev, “‘Peasant’ Janissaries?,” 454.
+                </figcaption>
 
                 <br/>
 
             <p>The above breaks in the code were the beginning of the corruption. In the later days of 
                 the janissaries, the sultans were concerned with imperial competition with the rising powers such 
                 as Russia and the British Empire. The sultans pursued reforms for the empire including 
-                modernizing the military using the advice of French advisors<sup>[<a href="http://www.jstor.org/stable/4282890" rel='noreferrer' target="_blank">16</a>]</sup> 
+                modernizing the military using the advice of French advisors
+                <sup>[<a href="http://www.jstor.org/stable/4282890" rel='noreferrer' target="_blank">16</a>]</sup> 
                 which was approved by the ruling 
                 elite but the janissaries opposed reforms and successfully established a political voice over the 
                 sultan. Sultans were threatened for imposing such reforms. The janissaries were now being seen 
                 as a hostage holder faction, dictating what the sultans should do.</p>
 
-                <figcaption>[16]  Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
-                    Century,” Middle Eastern Studies 18, no. 3 (1982): 236, http://www.jstor.org/stable/4282890.</figcaption>
+                <figcaption>
+                    [16] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
+                    Century,” Middle Eastern Studies 18, no. 3 (1982): 236, http://www.jstor.org/stable/4282890.
+                </figcaption>
 
                     <br/>
 
@@ -209,34 +261,43 @@ export default function Janissaries() {
                 codes the first chance they had. There is nuance to exactly how many janissaries followed each 
                 of these positions but the janissary corps were called into question by the sultans. Sultan Selim 
                 III viewed the janissaries as the main obstacle holding him back from enacting reforms for 
-                modernization.<sup>[17]</sup> 
+                modernization.
+                <sup>[17]</sup> 
                 His solution was to form a replacement army and disband the current 
                 janissaries. By having a different army, he would avoid the janissaries possibly reacting violently 
                 to his reforms. This didn’t work as he may have expected. A new army of about 20,000 soldiers 
-                began being trained in 1807.<sup>[18]</sup> 
+                began being trained in 1807.
+                <sup>[18]</sup> 
                 The sultan also demanded that the janissaries train and drill on a 
                 regular basis. The sultan’s unit was known as the “New Order.” The purpose of this unit was to 
                 establish another military unit directly loyal to the sultan once again as a revival of older checks 
                 and balances in the government. This was a direct source of competition to the position of the 
                 janissaries. The janissaries of the palace rebelled and assassinated the sultan.</p>
 
-                <figcaption>[17] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
-                    Century,” 239.</figcaption>
+                <figcaption>
+                    [17] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
+                    Century,” 239.
+                </figcaption>
 
                     <br/>
 
-                <figcaption>[18] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
-                    Century,” 239.</figcaption>
+                <figcaption>
+                    [18] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
+                    Century,” 239.
+                </figcaption>
 
                     <br/>
 
             <p>At this point, the janissaries were in direct opposition to their original purpose, entirely 
                 rejecting their loyalty to the sultan when faced with a replacement army. They demonstrated that 
-                they collectively could enact a regicide. The sultans of the 1700s that could roam the streets of Istanbul freely<sup>[19]</sup> 
+                they collectively could enact a regicide. The sultans of the 1700s that could roam the streets of Istanbul freely
+                <sup>[19]</sup> 
                 may never have imagined that their prestigious and most loyal fighting force a 
                 hundred years later would betray a sultan.</p>
 
-                <figcaption>[19]  Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” 13.</figcaption>
+                <figcaption>
+                    [19]  Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” 13.
+                </figcaption>
 
                 <br/>
 
