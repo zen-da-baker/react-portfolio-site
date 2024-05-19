@@ -54,7 +54,7 @@ export default function Janissaries() {
                 The boys would be taken and enslaved directly to the sultan as 
                 a means to have absolute loyalty to him alone. They were not supposed to have loyalty to anyone 
                 else in the empire including their own families in the borderlands. Unlike ordinary slaves that 
-                were emancipated after a decade of servitude, the janissaries were never emancipated.<sup>[<a href="http://www.jstor.org/stable/j.ctt6wp6pg.7" target="_blank">4</a>]</sup> 
+                were emancipated after a decade of servitude, the janissaries were never emancipated.<sup>[<a href="http://www.jstor.org/stable/j.ctt6wp6pg.7" rel='noreferrer' target="_blank">4</a>]</sup> 
                 They were owned by the sultan for their entire lives. In exchange, they were compensated in silver and 
                 were provided military privileges such as the ability to bear weapons in both times of peace and 
                 war. They would receive education in and converted to Islam. This was meant to spread Islam 
