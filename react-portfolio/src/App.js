@@ -5,16 +5,18 @@ import React, { useState } from 'react';
 import './App.css';
 import './history.css';
 
-// Import Components
+// Import Core Components
 import Header from './components/Header';
 import Home from './components/Home';
 
+// Import Page Components
 import Art from './components/Art';
 import Programming from './components/Programming';
 import Writing from './components/Writing';
 import Education from './components/Education';
 import About from './components/About';
 
+// Import Article Components
 import Janissaries from './components/articles/Janissaries';
 import ImperialRussia from './components/articles/ImperialRussia';
 import NativeAmericanResistance from './components/articles/NativeAmericanResistance';

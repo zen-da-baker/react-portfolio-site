@@ -9,7 +9,7 @@ export default function Janissaries() {
 
         <div class="center-div">
             <img className='article-img' src="../images/janissaries.jpg" alt='Three janissary soldiers standing aboard a ship' />
-            <figcaption>Janissaries standing aboard a ship in <a href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/"> brightly colored</a> attire.</figcaption>
+            <figcaption>Janissaries standing aboard a ship in <a href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/" rel='noreferrer' target='_blank'> brightly colored</a> attire.</figcaption>
         </div>
 
         <div class="center-div">
@@ -24,7 +24,7 @@ export default function Janissaries() {
                 at this in their early days as seen with the conquest of Constantinople, now Istanbul, and other 
                 border territories in Eastern Europe and North Africa. Much of their success came from being the 
                 largest standing army in the territories they invaded and their use of gunpowder weapons such as 
-                rifles and cannons.<sup>[<a href="http://www.jstor.org/stable/23906961" target="_blank">1</a>]</sup> 
+                rifles and cannons.<sup>[<a href="http://www.jstor.org/stable/23906961" rel='noreferrer' target="_blank">1</a>]</sup> 
                 Being a large and highly armed army gave the janissaries a unique status as a 
                 formidable force. Towards the end of their utilization, the janissaries as with any people found 
                 ways to erode their original purpose and defy their code for personal gain. Several sultans had 
@@ -32,7 +32,7 @@ export default function Janissaries() {
                 disobedience which halted further reforms of the empire. Despite the strict codes and harsh 
                 punishments for disloyalty to the sultan, the janissaries had become a hinderance to the empire 
                 modernizing in a way the sultans’ were seeking rather than a tool for the sultans. They were 
-                disbanded officially by Sultan Mahmud II in 1826 in an event that was known as the “Auspicious Event.”<sup>[<a href="http://www.jstor.org/stable/10.3366/j.ctv2f4vjf5.6" target="_blank">2</a>]</sup> 
+                disbanded officially by Sultan Mahmud II in 1826 in an event that was known as the “Auspicious Event.”<sup>[<a href="http://www.jstor.org/stable/10.3366/j.ctv2f4vjf5.6" rel='noreferrer' target="_blank">2</a>]</sup> 
                 The corruption of the janissaries was the primary cause of sultans seeking to replace 
                 them and established a new army that was perceived as more loyal.</p>
 
@@ -50,7 +50,7 @@ export default function Janissaries() {
 
             <p>The original purpose of the janissaries was to have absolute obedience to the Sultan.
                 From the time the janissaries were young boys, voynuks, Ottoman agents for the sultan, were 
-                sent to the Christian borderlands.<sup>[<a href="http://www.jstor.org/stable/27696448" target="_blank">3</a>]</sup> 
+                sent to the Christian borderlands.<sup>[<a href="http://www.jstor.org/stable/27696448" rel='noreferrer' target="_blank">3</a>]</sup> 
                 The boys would be taken and enslaved directly to the sultan as 
                 a means to have absolute loyalty to him alone. They were not supposed to have loyalty to anyone 
                 else in the empire including their own families in the borderlands. Unlike ordinary slaves that 
@@ -62,7 +62,7 @@ export default function Janissaries() {
                 The youth were also training in combat, sometimes at the palace and other times 
                 at Gallipoli. After training, they wore brightly colored clothing and a lion insignia to demonstrate 
                 that they were janissaries. Additionally, they had color coded boots to display their ranks. 
-                Janissaries wore red while their officers wore black.<sup>[<a href="https://doi.org/10.1080/03071849309417737" target="_blank">6</a>]</sup> 
+                Janissaries wore red while their officers wore black.<sup>[<a href="https://doi.org/10.1080/03071849309417737" rel='noreferrer' target="_blank">6</a>]</sup> 
                 They were then permanently or temporarily 
                 assigned to barracks in major cities for the defense of those cities. Alternatively, they could be 
                 called on by the sultan for a conquest of the Christian borderlands. The janissaries were well 
@@ -193,7 +193,7 @@ export default function Janissaries() {
             <p>The above breaks in the code were the beginning of the corruption. In the later days of 
                 the janissaries, the sultans were concerned with imperial competition with the rising powers such 
                 as Russia and the British Empire. The sultans pursued reforms for the empire including 
-                modernizing the military using the advice of French advisors<sup>[<a href="http://www.jstor.org/stable/4282890" target="_blank">16</a>]</sup> 
+                modernizing the military using the advice of French advisors<sup>[<a href="http://www.jstor.org/stable/4282890" rel='noreferrer' target="_blank">16</a>]</sup> 
                 which was approved by the ruling 
                 elite but the janissaries opposed reforms and successfully established a political voice over the 
                 sultan. Sultans were threatened for imposing such reforms. The janissaries were now being seen 
@@ -253,7 +253,7 @@ export default function Janissaries() {
                 bordering empires such as Russia and western colonial empires such as France. This was also in 
                 spite of the janissary corps growing from the original 20,000 janissaries that fought with Sultan 
                 Süleyman all the way to 135,000 janissaries under Sultan Mahmud II’s reign at the time of their 
-                disbanding.<sup>[<a href="https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167" target="_blank">21</a>]</sup> 
+                disbanding.<sup>[<a href="https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167" rel='noreferrer' target="_blank">21</a>]</sup> 
                 The fighting force was exponentially larger but wasn’t nearly as successful as it 
                 had once been.</p>
 
