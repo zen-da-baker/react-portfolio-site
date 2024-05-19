@@ -11,7 +11,7 @@ export default function ImperialRussia() {
 
         <div className="center-div">
             <img className='article-img' src="../images/factoryguard.jpg" alt='Workers and soliders standing before the Petrograd factory in Imperial Russia' />
-            <figcaption>Factory workers and soldiers forming a guard for the <a href="https://commons.wikimedia.org/wiki/File:Red_Guard_Vulkan_factory.jpg"> Vulkan Factory</a> in Petrograd.</figcaption>
+            <figcaption>Factory workers and soldiers forming a guard for the <a href="https://commons.wikimedia.org/wiki/File:Red_Guard_Vulkan_factory.jpg" rel='noreferrer' target='_blank'> Vulkan Factory</a> in Petrograd.</figcaption>
         </div>
 
         <div className="center-div">
