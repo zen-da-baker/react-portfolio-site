@@ -8,8 +8,8 @@ export default function Vietnam() {
         <h1 className="center-div">Comparative Analysis of Minh Mạng and Nguyễn Thị Bình</h1>
 
         <div className="center-div">
-            <img className='article-img' src="../images/vietnamMap.png"/>
-            <figcaption>Map of <a href="https://commons.wikimedia.org/wiki/File:Nguyen_Dynasty,_administrative_divisions_map_(1838).svg" alt='Map of Dai Nam Vietname from the 1820s'>Đại Nam</a> in 1838 during the rule of Minh Mạng.</figcaption>
+            <img className='article-img' src="../images/vietnamMap.png" alt='Map of Dai Nam Vietname from the 1820s'/>
+            <figcaption>Map of <a href="https://commons.wikimedia.org/wiki/File:Nguyen_Dynasty,_administrative_divisions_map_(1838).svg" rel='noreferrer' target='_blank'>Đại Nam</a> in 1838 during the rule of Minh Mạng.</figcaption>
         </div>
 
         <div className="center-div">
@@ -37,7 +37,7 @@ export default function Vietnam() {
                 between the two halves of the state.</p>
 
                 <div className="center-div">
-                    <img src="../images/minhMang.gif"/>
+                    <img src="../images/minhMang.gif" alt='Emperor Minh Mạng sitting on his throne.'/>
                     <figcaption>Fig 1 - Portrait of Minh Mạng from Journal of an Embassy to the Courts of Siam and Cochin-China, exhibiting a view of the actual State of these Kingdoms by John Crawfurd (1783-1868), London, 1828.</figcaption>
                 </div>
 
@@ -90,7 +90,7 @@ export default function Vietnam() {
                 to the current two warring states of the Second Indochina War.</p>
 
                 <div className="center-div">
-                    <img src="../images/NguyenThiBinh.jpg"/>
+                    <img src="../images/NguyenThiBinh.jpg" alt='Nguyễn Thị Bình in a room with other women.'/>
                     <figcaption>Fig 2 - Photo of Nguyễn Thị Bình Borton, L., 2018. Behind the Scenes, in the Forefront: Vietnamese Women in War and Peace. ASIANetwork Exchange: A Journal for Asian Studies in the Liberal Arts, 25(1), pp.7–59. DOI: http://doi.org/10.16995/ane.276</figcaption>
                 </div>
 
