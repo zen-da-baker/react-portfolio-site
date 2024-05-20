@@ -306,7 +306,8 @@ export default function Janissaries() {
                 fulfilling their purpose in the empire. They were meant to expand the empire through the 
                 conquest of border territories. As already mentioned, they were highly effective at this for the 
                 first several centuries of their existence as an army because of their skill with gunpowder 
-                weapons such as rifles and cannons as early as 1514.<sup>[20]</sup>
+                weapons such as rifles and cannons as early as 1514.
+                <sup>[20]</sup>
                 They successfully laid siege to walled 
                 cities and destroyed such walls which was a seemingly impossible task for previous armies 
                 before gunpowder. In the later centuries, they were no longer as effective. Their army was no 
@@ -314,15 +315,20 @@ export default function Janissaries() {
                 bordering empires such as Russia and western colonial empires such as France. This was also in 
                 spite of the janissary corps growing from the original 20,000 janissaries that fought with Sultan 
                 Süleyman all the way to 135,000 janissaries under Sultan Mahmud II’s reign at the time of their 
-                disbanding.<sup>[<a href="https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167" rel='noreferrer' target="_blank">21</a>]</sup> 
+                disbanding.
+                <sup>[<a href="https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167" rel='noreferrer' target="_blank">21</a>]</sup> 
                 The fighting force was exponentially larger but wasn’t nearly as successful as it 
                 had once been.</p>
 
-                <figcaption>[20] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 401.</figcaption>
+                <figcaption>
+                    [20] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 401.
+                </figcaption>
 
                 <br/>
 
-                <figcaption>[21] “Janissaries,” 1911 Encyclopedia Britannica, vol. 15, 151. https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167.</figcaption>
+                <figcaption>
+                    [21] “Janissaries,” 1911 Encyclopedia Britannica, vol. 15, 151. https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167.
+                </figcaption>
 
                 <br/>
 
@@ -332,43 +338,56 @@ export default function Janissaries() {
                 sultan with a death penalty being a response for betrayal, was still broken when the opportunity 
                 was presented.</p>
 
-                <figcaption>[22] Howard A. Reed, “The Destruction of the Janissaries in 1826; how Sultan Mahmud II Abolished the Corps,” in 
+                <figcaption>
+                    [22] Howard A. Reed, “The Destruction of the Janissaries in 1826; how Sultan Mahmud II Abolished the Corps,” in 
                     Defensive Mobilization: The Military-Administrative Phase. (Princeton University, transcript of Ph.D. dissertation, 
-                    1951) 36.</figcaption>
+                    1951) 36.
+                </figcaption>
 
                     <br/>
 
             <p>The janissaries after the assassination of Sultan Selim III were seen as a terrorizing force 
                 and active threat to Sultan Mahmud II. At times, he hid in the chimney of baths to avoid 
-                janissary assassins.<sup>[23]</sup> 
+                janissary assassins.
+                <sup>[23]</sup> 
                 This experience may have displayed to Sultan Mahmud II that abolishing 
                 the janissaries was a necessity and that he had to do so in a way in which he was still protected.</p>
 
-                <figcaption>[23]  Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” 15.</figcaption>
+                <figcaption>
+                    [23] Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” 15.
+                </figcaption>
 
                 <br/>
 
             <p>Two decades after Sultan Selim III had attempted to replace the janissaries, Sultan 
                 Mahmud II had successfully done so. He made a firman that the janissaries were to be disbanded 
-                and called on “True Muslims” to come to his aid.<sup>[24]</sup> 
+                and called on “True Muslims” to come to his aid.
+                <sup>[24]</sup> 
                 He had established a religious army to 
                 replace the secular janissaries and when he abolished the janissaries on the “Auspicious Event,” 
                 the new army defended him from the opposing janissaries. The janissaries reacted to the news of 
                 the new army with riots in the streets that burned down houses. The janissaries attempted to rush 
                 the palace and capture the sultan but never made their way in because of the new army.<sup>[25]</sup> 
                 Within a week of their disbanding, 2,000 soldiers of the new army trained regularly at the front of the 
-                Topkapi palace.<sup>[26]</sup> 
+                Topkapi palace.
+                <sup>[26]</sup> 
                 The janissaries were fast replaced by a new army that was capable of keeping them at bay.</p>
 
-                <figcaption>[24] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 401</figcaption>
+                <figcaption>
+                    [24] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 401
+                </figcaption>
 
                 <br/>
 
-                <figcaption>[25] Howard A. Reed, “The Destruction of the Janissaries,” 35.</figcaption>
+                <figcaption>
+                    [25] Howard A. Reed, “The Destruction of the Janissaries,” 35.
+                </figcaption>
 
                 <br/>
 
-                <figcaption>[26] Major General F.H. Tyrrell, “The Turkish Janissaries,” 145.</figcaption>
+                <figcaption>
+                    [26] Major General F.H. Tyrrell, “The Turkish Janissaries,” 145.
+                </figcaption>
 
                 <br/>
 
