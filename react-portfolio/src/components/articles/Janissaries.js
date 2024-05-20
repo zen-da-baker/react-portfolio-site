@@ -24,7 +24,8 @@ export default function Janissaries() {
         </div>
 
         <div className="center-div">
-            <p>The janissaries were the elite fighting ground forces of the Ottoman Empire from around 
+            <p>
+                The janissaries were the elite fighting ground forces of the Ottoman Empire from around 
                 the time of their founding to the time of their dissolution in 1826. Their primary role in the 
                 empire was to serve the sultan during his conquests of new borderlands. Their code of conduct 
                 was written to ensure their absolute obedience to the sultan. They were extraordinarily effective 
@@ -43,7 +44,8 @@ export default function Janissaries() {
                 disbanded officially by Sultan Mahmud II in 1826 in an event that was known as the “Auspicious Event.”
                 <sup>[<a href="http://www.jstor.org/stable/10.3366/j.ctv2f4vjf5.6" rel='noreferrer' target="_blank">2</a>]</sup> 
                 The corruption of the janissaries was the primary cause of sultans seeking to replace 
-                them and established a new army that was perceived as more loyal.</p>
+                them and established a new army that was perceived as more loyal.
+            </p>
 
                 <figcaption>
                     [1] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN.” Social Science 6, no. 4 (1931): 399,
@@ -60,7 +62,8 @@ export default function Janissaries() {
 
                     <br/>
 
-            <p>The original purpose of the janissaries was to have absolute obedience to the Sultan.
+            <p>
+                The original purpose of the janissaries was to have absolute obedience to the Sultan.
                 From the time the janissaries were young boys, voynuks, Ottoman agents for the sultan, were 
                 sent to the Christian borderlands.
                 <sup>[<a href="http://www.jstor.org/stable/27696448" rel='noreferrer' target="_blank">3</a>]</sup> 
@@ -82,7 +85,8 @@ export default function Janissaries() {
                 They were then permanently or temporarily 
                 assigned to barracks in major cities for the defense of those cities. Alternatively, they could be 
                 called on by the sultan for a conquest of the Christian borderlands. The janissaries were well 
-                organized and trained since their youth for the purpose of serving the sultan.</p>
+                organized and trained since their youth for the purpose of serving the sultan.
+            </p>
 
                 <figcaption>
                     [3] Evgeni Radushev, “‘Peasant’ Janissaries?,” Journal of Social History 42, no. 2 (2008): 447,
@@ -111,7 +115,8 @@ export default function Janissaries() {
 
                     <br/>
 
-            <p>Though the janissaries were primarily Christian children in the borderlands of the empire, 
+            <p>
+                Though the janissaries were primarily Christian children in the borderlands of the empire, 
                 there were a couple of ways other individuals could become janissaries. One way was that the 
                 irregular fighting forces who would normally wear yellow boots and weren’t as prestigious as the 
                 janissaries could be promoted to become a janissary.
@@ -122,7 +127,8 @@ export default function Janissaries() {
                 an ordinary free peasant. There was no description of how old one of these irregular soldiers had 
                 to be to be promoted into a janissary. This breaks the mold that janissaries had to be educated 
                 from a very young age to be loyal to the sultan as the standard soldiers promoted to janissaries 
-                could have a vastly different upbringing from the regular janissaries with possible implications.</p>
+                could have a vastly different upbringing from the regular janissaries with possible implications.
+            </p>
 
                 <figcaption>
                     [7] Major General F.H. Tyrrell, “The Turkish Janissaries,” 143.
@@ -130,7 +136,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>Another means for other individuals to become janissaries was when the sons of 
+            <p>
+                Another means for other individuals to become janissaries was when the sons of 
                 janissaries were allowed to enter the ranks of the father janissaries.
                 <sup>[8]</sup> 
                 The original purpose of this 
@@ -140,7 +147,8 @@ export default function Janissaries() {
                 <sup>[9]</sup>
                 however there are other implications of this system that 
                 will be explored later but this system was meant to uphold the loyalty of the janissaries. 
-                Betraying the sultan would mean betraying your family as well.</p>
+                Betraying the sultan would mean betraying your family as well.
+            </p>
 
                 <figcaption>
                     [8] Major General F.H. Tyrrell, “The Turkish Janissaries,” 143.
@@ -154,7 +162,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>To go against the sultan meant going against the very purpose and origin of the 
+            <p>
+                To go against the sultan meant going against the very purpose and origin of the 
                 janissaries. In their 14-point code of conduct, the first code is to have absolute obedience to the
                 sultan.
                 <sup>[10]</sup> 
@@ -165,7 +174,8 @@ export default function Janissaries() {
                 <sup>[11]</sup>
                 The janissaries had very short and clear codes for them to be obedient to the sultan, enslavement, 
                 an upbringing from childhood to serve the sultan, and harsh punishments for their betrayal. They 
-                were supposed to be the most loyal, brave, and selfless fighting force possible.</p>
+                were supposed to be the most loyal, brave, and selfless fighting force possible.
+            </p>
 
                 <figcaption>
                     [10] Major General F.H. Tyrrell, “The Turkish Janissaries,” 139.
@@ -179,13 +189,16 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>All of the factors listed above did not stop the janissaries from eventually becoming 
+            <p>
+                All of the factors listed above did not stop the janissaries from eventually becoming 
                 corrupt. In spite of the harsh punishments for disobeying their code of conduct, the janissaries 
                 still in mass defied their codes for personal gain in a complete contrast of how they were 
                 intended to behave. The janissaries found loopholes in their codes and even betraying the sultan 
-                in regicide.</p>
+                in regicide.
+            </p>
 
-            <p>As mentioned before, the janissaries were allowed to have their sons join their units and 
+            <p>
+                As mentioned before, the janissaries were allowed to have their sons join their units and 
                 become janissaries as well. This system may have been intended for the janissaries to have 
                 tighter bonds with their units to maintain loyalty to each other as well as the sultan. This wasn’t 
                 always the case as the janissaries at times listed their son on the unit rosters when the sons were 
@@ -193,7 +206,8 @@ export default function Janissaries() {
                 <sup>[12]</sup> 
                 The fathers would collect their pay and the pay intended for the son. In effect, the 
                 janissaries were double dipping into the funds of the empire. This shows that the janissaries were 
-                capable and willing to exploit loopholes in their code.</p>
+                capable and willing to exploit loopholes in their code.
+            </p>
 
                 <figcaption>
                     [12] Major General F.H. Tyrrell, “The Turkish Janissaries,” 144.
@@ -201,13 +215,15 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>This of course wasn’t the only code that janissaries broke. One such code was that 
+            <p>
+                This of course wasn’t the only code that janissaries broke. One such code was that 
                 janissaries weren’t allowed to pursue a trade. They were strictly a professional military force, not 
                 meant to take part in civilian affairs. This was not upheld as the janissaries often took civilian 
                 jobs outside of their main duties. In Istanbul for example, some janissaries used their spare time 
                 to run coffee houses.
                 <sup>[13]</sup> 
-                Jobs like these were completely outside of the military duties of the janissaries.</p>
+                Jobs like these were completely outside of the military duties of the janissaries.
+            </p>
 
                 <figcaption>
                     [13] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 400.
