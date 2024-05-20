@@ -231,7 +231,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>Another code that the janissaries broke was the mandate that they must live inside their 
+            <p>
+                Another code that the janissaries broke was the mandate that they must live inside their 
                 barracks exclusively. They didn’t always do this. In the later days of their existence, the 
                 janissaries often married lived outside of the barracks in exchange for not having access to 
                 rations.
@@ -241,7 +242,8 @@ export default function Janissaries() {
                 <sup>[15]</sup> 
                 demonstrated that the janissaries had a variety of interests outside of
                 their military duties that they were able to pursue without punishment as their code enforcement 
-                relaxed.</p>
+                relaxed.
+            </p>
 
                 <figcaption>
                     [14] Major General F.H. Tyrrell, “The Turkish Janissaries,” 144.
@@ -255,7 +257,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>The above breaks in the code were the beginning of the corruption. In the later days of 
+            <p>
+                The above breaks in the code were the beginning of the corruption. In the later days of 
                 the janissaries, the sultans were concerned with imperial competition with the rising powers such 
                 as Russia and the British Empire. The sultans pursued reforms for the empire including 
                 modernizing the military using the advice of French advisors
@@ -263,7 +266,8 @@ export default function Janissaries() {
                 which was approved by the ruling 
                 elite but the janissaries opposed reforms and successfully established a political voice over the 
                 sultan. Sultans were threatened for imposing such reforms. The janissaries were now being seen 
-                as a hostage holder faction, dictating what the sultans should do.</p>
+                as a hostage holder faction, dictating what the sultans should do.
+            </p>
 
                 <figcaption>
                     [16] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
@@ -272,7 +276,8 @@ export default function Janissaries() {
 
                     <br/>
 
-            <p>It is highly unlikely that all janissaries universally embraced the corruption. There are 
+            <p>
+                It is highly unlikely that all janissaries universally embraced the corruption. There are 
                 likely some janissaries that continued to uphold their codes while others attempted to break their 
                 codes the first chance they had. There is nuance to exactly how many janissaries followed each 
                 of these positions but the janissary corps were called into question by the sultans. Sultan Selim 
@@ -288,7 +293,8 @@ export default function Janissaries() {
                 regular basis. The sultan’s unit was known as the “New Order.” The purpose of this unit was to 
                 establish another military unit directly loyal to the sultan once again as a revival of older checks 
                 and balances in the government. This was a direct source of competition to the position of the 
-                janissaries. The janissaries of the palace rebelled and assassinated the sultan.</p>
+                janissaries. The janissaries of the palace rebelled and assassinated the sultan.
+            </p>
 
                 <figcaption>
                     [17] Avigdor Levy, “Military Reform and the Problem of Centralization in the Ottoman Empire in the Eighteenth 
@@ -304,12 +310,14 @@ export default function Janissaries() {
 
                     <br/>
 
-            <p>At this point, the janissaries were in direct opposition to their original purpose, entirely 
+            <p>
+                At this point, the janissaries were in direct opposition to their original purpose, entirely 
                 rejecting their loyalty to the sultan when faced with a replacement army. They demonstrated that 
                 they collectively could enact a regicide. The sultans of the 1700s that could roam the streets of Istanbul freely
                 <sup>[19]</sup> 
                 may never have imagined that their prestigious and most loyal fighting force a 
-                hundred years later would betray a sultan.</p>
+                hundred years later would betray a sultan.
+            </p>
 
                 <figcaption>
                     [19]  Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” 13.
@@ -317,7 +325,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>The janissaries were again seen as a burden, hinderance, and an active threat by later 
+            <p>
+                The janissaries were again seen as a burden, hinderance, and an active threat by later 
                 sultan, Mahmud II. At this point in time of the early 1800s, the janissaries were no longer 
                 fulfilling their purpose in the empire. They were meant to expand the empire through the 
                 conquest of border territories. As already mentioned, they were highly effective at this for the 
@@ -334,7 +343,8 @@ export default function Janissaries() {
                 disbanding.
                 <sup>[<a href="https://en.wikisource.org/wiki/Page%3AEB1911_-_Volume_15.djvu/167" rel='noreferrer' target="_blank">21</a>]</sup> 
                 The fighting force was exponentially larger but wasn’t nearly as successful as it 
-                had once been.</p>
+                had once been.
+            </p>
 
                 <figcaption>
                     [20] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 401.
@@ -348,11 +358,13 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>As a fighting force, the janissaries had lost their luster, were no longer seen as loyal to the 
+            <p>
+                s a fighting force, the janissaries had lost their luster, were no longer seen as loyal to the 
                 sultans, and opposed reforms. Their very lion insignia was now seen as a symbol of unrest and insubordination.<sup>[22]</sup> 
                 Even the most important code for the janissaries, absolute obedience to the 
                 sultan with a death penalty being a response for betrayal, was still broken when the opportunity 
-                was presented.</p>
+                was presented.
+            </p>
 
                 <figcaption>
                     [22] Howard A. Reed, “The Destruction of the Janissaries in 1826; how Sultan Mahmud II Abolished the Corps,” in 
@@ -362,12 +374,14 @@ export default function Janissaries() {
 
                     <br/>
 
-            <p>The janissaries after the assassination of Sultan Selim III were seen as a terrorizing force 
+            <p>
+                The janissaries after the assassination of Sultan Selim III were seen as a terrorizing force 
                 and active threat to Sultan Mahmud II. At times, he hid in the chimney of baths to avoid 
                 janissary assassins.
                 <sup>[23]</sup> 
                 This experience may have displayed to Sultan Mahmud II that abolishing 
-                the janissaries was a necessity and that he had to do so in a way in which he was still protected.</p>
+                the janissaries was a necessity and that he had to do so in a way in which he was still protected.
+            </p>
 
                 <figcaption>
                     [23] Darin N. Stephanov, “The First Shift in (Modern) Ruler Visibility: The Reign of Mahmud II (1808–39),” 15.
@@ -375,7 +389,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>Two decades after Sultan Selim III had attempted to replace the janissaries, Sultan 
+            <p>
+                Two decades after Sultan Selim III had attempted to replace the janissaries, Sultan 
                 Mahmud II had successfully done so. He made a firman that the janissaries were to be disbanded 
                 and called on “True Muslims” to come to his aid.
                 <sup>[24]</sup> 
@@ -387,7 +402,8 @@ export default function Janissaries() {
                 Within a week of their disbanding, 2,000 soldiers of the new army trained regularly at the front of the 
                 Topkapi palace.
                 <sup>[26]</sup> 
-                The janissaries were fast replaced by a new army that was capable of keeping them at bay.</p>
+                The janissaries were fast replaced by a new army that was capable of keeping them at bay.
+            </p>
 
                 <figcaption>
                     [24] Dorsey D. Jones, “THE JANISSARIES—UNIQUE FIGHTING MEN,” 401
@@ -407,7 +423,8 @@ export default function Janissaries() {
 
                 <br/>
 
-            <p>The cause of the disloyalty of the janissaries may be assumed to be because some of the 
+            <p>
+                The cause of the disloyalty of the janissaries may be assumed to be because some of the 
                 janissaries were promoted into the ranks after having already lived free. Those janissaries had 
                 lives beyond the janissary corps by the time they were promoted into the janissary role. This may 
                 lead to the idea that those janissaries introduced the disloyalty that would eventually lead to the 
@@ -417,15 +434,18 @@ export default function Janissaries() {
                 were better able to pursue those interests. The act of taking away the freedom to pursue those 
                 interests as seen with Sultan Selim III demanding the janissaries train more resulted in violent 
                 reaction as the janissaries used their very tools to hold power over the sultans. The act of taking 
-                away the gradual freedoms of the janissaries is the real cause of their disloyalty.</p>
+                away the gradual freedoms of the janissaries is the real cause of their disloyalty.
+            </p>
 
-            <p>The corruption of the janissaries was the primary cause of the later sultans seeking to 
+            <p>
+                The corruption of the janissaries was the primary cause of the later sultans seeking to 
                 replace them, but that corruption was created by the janissaries seeking more freedoms from 
                 their codes. The janissaries exploited their codes such as doubling their pay illegally but also 
                 pursues personal interests such as owning coffee houses. The sultans retracting these slowly 
                 gained freedoms resulted in further escalation of the corruption as seen with the assassination of 
                 Selim III and the terrorism aimed at Mahmud II. The system of the janissary corps lacking 
-                freedom for the janissaries directly contributed to the corruption and abolition of the janissaries.</p>
+                freedom for the janissaries directly contributed to the corruption and abolition of the janissaries.
+            </p>
 
         </div>
 
