@@ -7,13 +7,20 @@ export default function Janissaries() {
         
             <h1 className="center-div">Corruption of the Janissaries</h1>
 
-            <div class="center-div">
-                <img className='article-img' src="../images/janissaries.jpg" alt='Three janissary soldiers standing aboard a ship' />
+            <div className="center-div">
+                <img 
+                    className='article-img' 
+                    src="../images/janissaries.jpg" 
+                    alt='Three janissary soldiers standing aboard a ship' 
+                />
+
                 <figcaption>
-                    Janissaries standing aboard a ship in 
-                    <a href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/" rel='noreferrer' target='_blank'> 
-                    brightly colored</a> 
-                    attire.
+                    Janissaries standing aboard a ship in <a 
+                        href="https://www.realmofhistory.com/2022/04/19/facts-ottoman-janissaries/" 
+                        rel='noreferrer' 
+                        target='_blank'
+                        >brightly colored
+                    </a> attire.
                 </figcaption>
             </div>
 
