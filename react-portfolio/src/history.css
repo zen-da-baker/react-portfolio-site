@@ -10,11 +10,11 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 50vw;
 }
 
 .article-img {
-    width: 75%;
+    width: 70%;
     position: relative;
     left: 100px;
 }
