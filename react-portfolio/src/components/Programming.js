@@ -11,6 +11,7 @@ import Card from './Card';
 import data from '../database/cardData';
 
 export default function Programming() {
+
     return (
         <div className='app-body'>
             <h1 className='center'>Programming</h1>
@@ -61,8 +62,16 @@ export default function Programming() {
                 <Card 
                     title={data.programming.program5.title}
                     description={data.programming.program5.description}
+                    href={data.programming.program5.href}
                     src={data.programming.program5.src}
                     alt={data.programming.program5.alt}
+                />
+
+                <Card 
+                    title={data.programming.program6.title}
+                    description={data.programming.program6.description}
+                    src={data.programming.program6.src}
+                    alt={data.programming.program6.alt}
                 />
             </div>
         </div>

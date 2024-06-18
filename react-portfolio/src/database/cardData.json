@@ -1,34 +1,41 @@
 {
     "programming": {
         "program1": {
+            "title": "City Weather",
+            "description": "API Weather Application",
+            "href": "projects/weather/index.html",
+            "src": "images/weather.png",
+            "alt": "Landing page of the weather app"
+        },
+        "program2": {
             "title": "Meal Timer", 
             "description": "React Application",
             "href": "https://zinniafrazier.com/projects/meal-timer/",
             "src": "images/mealtimer.png",
             "alt": "Meal timer all that calculates when the user should eat a meal"
         },
-        "program2": {
+        "program3": {
             "title": "Sleep Calculator",
             "description": "React Web Application",
             "href": "https://zinniafrazier.com/projects/sleep-calculator/",
             "src": "images/sleepcalculator.png",
             "alt": "Sleep calculator used to determine a bedtime based on the user wake up time"
         },
-        "program3": {
+        "program4": {
             "title": "Radiant Sun",
             "description": "RPG Maker Video Game",
             "href": "https://radiantsun.net/",
             "src": "images/radiantsun.png",
             "alt": "Radiant Sun gameplay"
         }, 
-        "program4": {
+        "program5": {
             "title": "Quits By Ginny",
             "description": "Organization Landing page",
             "href": "https://quiltsbyginny.com/",
             "src": "images/quiltsbyginny.png",
             "alt": "The Quilts by Ginny homepage"
         },
-        "program5": {
+        "program6": {
             "title": "Artr",
             "description": "Landing page of a social network app",
             "src": "images/artrfooter.png",

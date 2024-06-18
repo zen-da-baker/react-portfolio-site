@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="main.css"/>
+        <link rel="stylesheet" href="responsive.css"/>
+
+        <!-- <script src="findAPI.js"></script> -->
+        <script src="main.js"></script>
+        <script src="apiRequest.js"></script>
+        <script src="mobileMenu.js"></script>
+    </head>
+
+    <body>
+        <header class="header">
+            <div class="container">
+                
+                <h1 id="title">Weather</h1>
+
+                <button class="btn" id="mobileMenuId" onclick="toggleMenu()">Menu</button>
+
+                <div class="container desktop-nav">
+                    <nav>
+                        <ul class="nav-items">
+                            <li>
+                                <button class="btn" onclick="changeTitle('Perris'); selectCity('perris')">Perris</button>
+                            </li>
+
+                            <li>
+                                <button class="btn" onclick="changeTitle('Los Angeles'); selectCity('la')">LA</button>
+                            </li>
+
+                            <li>
+                                <button class="btn" onclick="changeTitle('San Diego'); selectCity('sanDiego')">San Diego</button>
+                            </li>
+
+                            <li>
+                                <button class="btn" onclick="changeTitle('Sacramento'); selectCity('sacramento')">Sacramento</button>
+                            </li>
+
+                            <li>
+                                <button class="btn" onclick="changeTitle('San Francisco'); selectCity('sanFrancisco')">San Francisco</button>
+                            </li>
+
+                            <li>
+                                <button class="btn" onclick="changeTitle('Las Vegas'); selectCity('lasVegas')">Las Vegas</button>
+                            </li>
+
+                            <li>
+                                <button class="btn" onclick="changeTitle('Portland'); selectCity('portland')">Portland</button>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="container mobile-nav">
+                <nav id="mobile-nav-items">
+                    <ul class="nav-items">
+                        <li>
+                            <button class="btn" onclick="changeTitle('Perris'); selectCity('perris')">Perris</button>
+                        </li>
+
+                        <li>
+                            <button class="btn" onclick="changeTitle('Los Angeles'); selectCity('la')">LA</button>
+                        </li>
+
+                        <li>
+                            <button class="btn" onclick="changeTitle('San Diego'); selectCity('sanDiego')">San Diego</button>
+                        </li>
+
+                        <li>
+                            <button class="btn" onclick="changeTitle('Sacramento'); selectCity('sacramento')">Sacramento</button>
+                        </li>
+
+                        <li>
+                            <button class="btn" onclick="changeTitle('San Francisco'); selectCity('sanFrancisco')">San Francisco</button>
+                        </li>
+
+                        <li>
+                            <button class="btn" onclick="changeTitle('Las Vegas'); selectCity('lasVegas')">Las Vegas</button>
+                        </li>
+
+                        <li>
+                            <button class="btn" onclick="changeTitle('Portland'); selectCity('portland')">Portland</button>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            
+        </header>
+
+        <main class="main">
+            <section class="gallery">
+                <div class="card-center">
+                    <div id="day1">Today</div>
+
+                    <hr class="hr">
+
+                    <div id="night1">Tonight</div>
+                </div>
+        
+                <div class="card">
+                    <div id="day2"></div>
+                </div>
+        
+                <div class="card">
+                    <div id="day3"></div>
+                </div>
+                    
+                <div class="card">
+                    <div id="day4"></div>
+                </div>
+                    
+                <div class="card">
+                    <div id="day5"></div>
+                </div>
+                    
+        
+                <div class="card">
+                    <div id="day6"></div>
+                </div>
+        
+                <div class="card">
+                    <div id="day7"></div>
+                </div>
+            </section>
+        </main>
+
+        
+
+        <footer class="footer">
+            <p>Weather information provided by the 
+                <a class="link" href="https://www.noaa.gov/" target="_blank">National Oceanic and Atmospheric Administration</a>.
+            </p>
+        </footer>
+        
+    </body>
+</html>
