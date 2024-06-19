@@ -83,6 +83,9 @@ h1, h2, h3 {
 .header {
     background-color: hsl(220, 20%, 10%);
     padding: 0.25rem 3rem;
+    position: fixed;
+    width: 95vw;
+    margin-bottom: 5rem;
 }
 
 .main {
@@ -103,6 +106,7 @@ h1, h2, h3 {
 .card-center {
     border: 0.1rem solid black;
     margin: 1rem;
+    margin-top: 5rem;
     padding: 2rem;
     border-radius: 1rem;
     background-color: hsl(220, 20%, 10%);
