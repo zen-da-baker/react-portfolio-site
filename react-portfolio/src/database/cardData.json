@@ -1,41 +1,48 @@
 {
     "programming": {
-        "program1": {
+        "program7": {
+            "title": "Math Quiz",
+            "description": "A fun frontend web application game",
+            "href": "projects/math-quiz/index.html",
+            "src": "images/math-quiz.png",
+            "alt": "Landing page of the math quiz"
+        },
+        "program6": {
             "title": "City Weather",
             "description": "API Weather Application",
             "href": "projects/weather/index.html",
             "src": "images/weather.png",
             "alt": "Landing page of the weather app"
         },
-        "program2": {
+        "program5": {
             "title": "Meal Timer", 
             "description": "React Application",
             "href": "https://zinniafrazier.com/projects/meal-timer/",
             "src": "images/mealtimer.png",
             "alt": "Meal timer all that calculates when the user should eat a meal"
         },
-        "program3": {
+        "program4": {
             "title": "Sleep Calculator",
             "description": "React Web Application",
             "href": "https://zinniafrazier.com/projects/sleep-calculator/",
             "src": "images/sleepcalculator.png",
             "alt": "Sleep calculator used to determine a bedtime based on the user wake up time"
         },
-        "program4": {
+        "program3": {
             "title": "Radiant Sun",
             "description": "RPG Maker Video Game",
             "href": "https://radiantsun.net/",
             "src": "images/radiantsun.png",
             "alt": "Radiant Sun gameplay"
         }, 
-        "program5": {
+        "program2": {
             "title": "Quits By Ginny",
             "description": "Organization Landing page",
             "href": "https://quiltsbyginny.com/",
             "src": "images/quiltsbyginny.png",
             "alt": "The Quilts by Ginny homepage"
         },
-        "program6": {
+        "program1": {
             "title": "Artr",
             "description": "Landing page of a social network app",
             "src": "images/artrfooter.png",
