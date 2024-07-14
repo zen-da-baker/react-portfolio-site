@@ -158,6 +158,10 @@ h1, h2, h3, p, li {
   flex-wrap: wrap;
 }
 
+.icon {
+  margin: 1rem;
+}
+
 .box {
   width: 50rem;
   padding: 2rem;
@@ -223,6 +227,10 @@ hr {
 @media only screen and (max-width: 1250px) {
   .btn {
     width: 8rem;
+  }
+
+  .paragraph {
+    padding: 1rem;
   }
 }
 

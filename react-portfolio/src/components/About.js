@@ -1,22 +1,31 @@
 // Import React
 import React from 'react';
 
+/*
+// Import FontAwesome
+import { FontAwesomeIcon } from '@fontawesome/react-fontawesome';
+import { fab } from '@fontawesome/free-brands-svg-icons';
+import { faGithub } from '@fontawesome/free-solid-svg-icons';
+*/
+
 // Import Styles
 import '../App.css';
 
 export default function About() {
+
+    // const githubIcon = <FontAwesomeIcon icon={faGithub} />
     return (
         <div className='app-body'>
             
             <h1 className='center'>About</h1>
 
             <p className='paragraph'>
-                Don is a web developer, writer, and artist based in Riverside, California. They have used all of these deciplines to design 
-                eLearning Tutorials as well as web sites for University and private clients. Don is currently looking for employment in web 
-                development.
+                Don is a web developer, writer, and artist based in Riverside, California. 
+                They have used all of these deciplines to design eLearning Tutorials as well as web sites for University and private clients. 
+                Don is currently looking for employment in web development.
             </p>
 
-            <h2>Experience</h2>
+            <h2 className="paragraph">Experience</h2>
 
             <div className='container'>
                 <div className='box'>
@@ -44,7 +53,7 @@ export default function About() {
                 </div>
             </div>
 
-            <h2>Education</h2>
+            <h2 className="paragraph">Education</h2>
 
             <div className='container'>
                 <div className='box'>
@@ -62,7 +71,22 @@ export default function About() {
                     <p>2017 - 2019</p>
                 </div>
             </div>
-            
+
+            <h2 className="paragraph">Links</h2>
+
+                <p className="paragraph">I may be reached through the following: </p>
+                
+                <div className="container">
+                    <a href="https://github.com/zen-da-baker" rel="noreferrer" target="_blank">
+                        <img src="./images/icons/github-brands.svg" alt="Github icon" className="icon" />
+                        Github
+                    </a>
+                    <a href="https://www.linkedin.com/in/donovan-frazier-8758b41ba/" rel="noreferrer" target="_blank">
+                    
+                        <img src="./images/icons/linkedin-brands.svg" alt="LinkedIn icon" className="icon" />
+                        LinkedIn
+                    </a>
+                </div>
         </div>
     )
 }
