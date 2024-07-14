@@ -232,3 +232,9 @@ img.thumbnail:hover {
         display:none;
     }
 }
+
+@media only screen and (max-width: 720px) {
+    .content {
+        width: 100vw;
+    }
+}

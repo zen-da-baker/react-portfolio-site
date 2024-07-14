@@ -124,7 +124,7 @@ h1, h2, h3, p, li {
 
 .app-header {
   background-color: hsl(40, 50%, 10%);
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -175,7 +175,7 @@ h1, h2, h3, p, li {
 .card {
   width: 20rem;
   border-radius: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem 0.5rem;
   padding: 0.5rem;
   cursor: pointer;
   background-color: hsl(40, 50%, 90%);
@@ -214,7 +214,24 @@ hr {
 /* Responsive Design
 ======================================================== */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 1500px) {
+  .title {
+    width: 15rem;
+  }
+}
+
+@media only screen and (max-width: 1250px) {
+  .btn {
+    width: 8rem;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+
+  .title {
+    width: 20rem;
+  }
+
   .app {
     flex-direction: column;
     max-height: 20vh;
@@ -222,12 +239,39 @@ hr {
 
   .app-header {
     width: 100vw;
-    height: 20vh;
+    max-height: 18vh;
+    padding: 0;
+
+    z-index: 1;
+    position: fixed;
   }
 
   .app-body {
     width: 100vw;
+    padding: 0;
+    position: relative;
+
+    left: 0;
+    top: 18vh;
   }
+
+  .title {
+    margin-top: 1rem;
+  }
+
+  .desktop {
+    display: none;
+  }
+
+  .button-container {
+    flex-direction: row;
+  }
+
+  .btn {
+    width: 5rem;
+  }
+
+  
 
   .button-container {
     display: flex;
@@ -235,7 +279,11 @@ hr {
   }
 
   .card {
-    width: 90%;
+    width: 20rem;
+  }
+
+  .banner {
+    width: 80%;
   }
 
   h1 {
