@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Review() {
     return (
-        <article className="content">
+        <article className="content app-body">
         
             <h1 className="center-div">Man in the High Castle - Book "Review" with Forrest Macneil</h1>
 

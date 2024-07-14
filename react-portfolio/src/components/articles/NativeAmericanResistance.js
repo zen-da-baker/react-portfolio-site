@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function NativeAmericanResistance() {
     return (
-        <article className="content">
+        <article className="content app-body">
         
             <h1 className="center-div">Caught Between Power Blocs</h1>
 

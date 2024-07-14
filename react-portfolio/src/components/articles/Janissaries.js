@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Janissaries() {
     return (
-        <article className="content">
+        <article className="content app-body">
         
             <h1 className="center-div">Corruption of the Janissaries</h1>
 

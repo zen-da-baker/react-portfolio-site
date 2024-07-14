@@ -16,14 +16,6 @@ export default function Programming() {
         <div className='app-body'>
             <h1 className='center'>Programming</h1>
 
-            <h2 className='center'>Applications</h2>
-
-            <div className='gallery'>
-                <Card 
-                
-                />
-            </div>
-
             <h2 className='center'>Web Applications</h2>
 
             <div className='gallery'>

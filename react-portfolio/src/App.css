@@ -131,12 +131,17 @@ h1, h2, h3, p, li {
   color: white;
   width: 20vw;
   padding: 1rem;
+
+  position: fixed;
 }
 
 .app-body {
-  width: 80vw;
+  width: 75vw;
   background-color: hsl(40, 10%, 90%);
   padding: 2rem;
+
+  position: absolute;
+  left: 20vw;
 }
 
 /* Page Body containers */

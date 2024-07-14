@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Vietnam() {
     return (
-        <article className="content">
+        <article className="content app-body">
         
             <h1 className="center-div">Comparative Analysis of Minh Mạng and Nguyễn Thị Bình</h1>
 

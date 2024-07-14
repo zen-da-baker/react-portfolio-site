@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function ImperialRussia() {
     return (
-        <article className="content">
+        <article className="content app-body">
         
             <h1 className="center-div">Tension Between Workers and Soldiers</h1>
 

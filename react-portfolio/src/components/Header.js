@@ -5,6 +5,13 @@ import React from 'react';
 import '../App.css';
 
 export default function Header(props) {
+
+    function scroll() {
+        window.scroll(0,0);
+    }
+
+    scroll();
+
     return (
         <header className="app-header">
 
