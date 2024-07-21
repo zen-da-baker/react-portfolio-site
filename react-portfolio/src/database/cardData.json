@@ -1,5 +1,12 @@
 {
     "programming": {
+        "program8": {
+            "title": "Valorant Agent Personality Quiz",
+            "description": "This is a fun personality quiz based on the current 24 Valorant agents.",
+            "href": "projects/valorant-personality-quiz/index.html",
+            "src": "images/valorant-agent-personality-quiz.png",
+            "alt": "Landing page of the Valorant Agent Personality Quiz"
+        },
         "program7": {
             "title": "Math Quiz",
             "description": "A fun frontend web application game",

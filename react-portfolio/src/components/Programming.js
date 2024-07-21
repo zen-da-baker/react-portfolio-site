@@ -20,6 +20,14 @@ export default function Programming() {
 
             <div className='gallery'>
                 <Card 
+                    title={data.programming.program8.title} 
+                    description={data.programming.program8.description}
+                    href={data.programming.program8.href}
+                    src={data.programming.program8.src}
+                    alt={data.programming.program8.alt}
+                />
+
+                <Card 
                     title={data.programming.program7.title} 
                     description={data.programming.program7.description}
                     href={data.programming.program7.href}
