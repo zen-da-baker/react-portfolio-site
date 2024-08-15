@@ -26,7 +26,7 @@ import Vietnam from './components/articles/Vietnam';
 function App() {
 
   // Body page states
-  const [body, setBody] = useState('home');
+  const [body, setBody] = useState('programming');
 
   // Body page handler functions using states
   function handleHome() {

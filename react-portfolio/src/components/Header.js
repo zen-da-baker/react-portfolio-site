@@ -23,10 +23,14 @@ export default function Header(props) {
 
                 <hr className="desktop" />
 
-                <button className='btn desktop' onClick={props.handleArt}>Art</button>
                 <button className='btn desktop' onClick={props.handleProgramming}>Programming</button>
-                <button className='btn desktop' onClick={props.handleWriting}>Writing</button>
+
                 <button className='btn desktop' onClick={props.handleEducation}>Education</button>
+
+                <button className='btn desktop' onClick={props.handleArt}>Art</button>
+                
+                <button className='btn desktop' onClick={props.handleWriting}>Writing</button>
+                
 
                 <button className='btn' onClick={props.handleAbout}>About</button>
             </div>
