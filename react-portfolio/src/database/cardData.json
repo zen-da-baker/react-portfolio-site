@@ -1,5 +1,12 @@
 {
     "programming": {
+        "program9": {
+            "title": "Retro TV",
+            "description": "A fun frontend retro tv that plays videos.",
+            "href": "projects/retro-tv/index.html",
+            "src": "images/retro-tv.png",
+            "alt": "Retro tv with a youtube video"
+        },
         "program8": {
             "title": "Valorant Agent Personality Quiz",
             "description": "This is a fun personality quiz based on the current 24 Valorant agents.",
