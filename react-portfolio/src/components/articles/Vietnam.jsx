@@ -5,7 +5,7 @@ export default function Vietnam() {
     return (
         <article className="content app-body">
         
-            <h1 className="center-div">Comparative Analysis of Minh Mạng and Nguyễn Thị Bình</h1>
+            <h1 className="center-div heading">Comparative Analysis of Minh Mạng and Nguyễn Thị Bình</h1>
 
             <div className="center-div">
                 <img className='article-img' src="../images/vietnamMap.png" alt='Map of Dai Nam Vietname from the 1820s'/>

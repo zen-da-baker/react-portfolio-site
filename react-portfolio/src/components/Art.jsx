@@ -1,9 +1,6 @@
 // Import React
 import React from 'react';
 
-// Import Styles
-import '../App.css';
-
 // Import Card Component
 import ArtCard from './ArtCard';
 
@@ -13,7 +10,7 @@ import data from '../database/cardData';
 export default function Art() {
     return (
         <div className='app-body'>
-            <h1 className='center'>Art</h1>
+            <h1 className='center heading'>Art</h1>
 
             <h2 className='center'>Art Projects</h2>
 

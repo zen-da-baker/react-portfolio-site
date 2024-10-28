@@ -1,23 +1,13 @@
 // Import React
 import React from 'react';
 
-/*
-// Import FontAwesome
-import { FontAwesomeIcon } from '@fontawesome/react-fontawesome';
-import { fab } from '@fontawesome/free-brands-svg-icons';
-import { faGithub } from '@fontawesome/free-solid-svg-icons';
-*/
-
-// Import Styles
-import '../App.css';
-
 export default function About() {
 
     // const githubIcon = <FontAwesomeIcon icon={faGithub} />
     return (
         <div className='app-body'>
             
-            <h1 className='center'>About</h1>
+            <h1 className='center heading'>About</h1>
 
             <p className='paragraph'>
                 Don is a web developer, writer, and artist based in Riverside, California. 

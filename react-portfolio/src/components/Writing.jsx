@@ -1,9 +1,6 @@
 // Import React
 import React from 'react';
 
-// Import Styles
-import '../App.css';
-
 // Import Card component
 import ArticleCard from './ArticleCard';
 
@@ -13,7 +10,7 @@ import data from '../database/cardData';
 export default function Writing(props) {
     return (
         <div className='app-body'>
-            <h1 className='center'>Writing</h1>
+            <h1 className='center heading'>Writing</h1>
 
             <h2 className='center'>Articles</h2>
 

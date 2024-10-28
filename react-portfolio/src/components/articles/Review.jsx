@@ -5,7 +5,7 @@ export default function Review() {
     return (
         <article className="content app-body">
         
-            <h1 className="center-div">Man in the High Castle - Book "Review" with Forrest Macneil</h1>
+            <h1 className="center-div heading">Man in the High Castle - Book "Review" with Forrest Macneil</h1>
 
             <div className="center-div">
                 <figcaption>

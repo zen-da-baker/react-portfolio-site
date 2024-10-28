@@ -5,7 +5,7 @@ export default function ImperialRussia() {
     return (
         <article className="content app-body">
         
-            <h1 className="center-div">Tension Between Workers and Soldiers</h1>
+            <h1 className="center-div heading">Tension Between Workers and Soldiers</h1>
 
             <div className="center-div">
                 <img 

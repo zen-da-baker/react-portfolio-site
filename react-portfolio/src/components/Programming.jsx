@@ -1,9 +1,6 @@
 // Import React
 import React from 'react';
 
-// Import Styles
-import '../App.css';
-
 // Import components
 import Card from './Card';
 
@@ -14,7 +11,7 @@ export default function Programming() {
 
     return (
         <div className='app-body'>
-            <h1 className='center'>Programming</h1>
+            <h1 className='center heading'>Programming</h1>
 
             <h2 className='center'>Web Applications</h2>
 

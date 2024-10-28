@@ -1,9 +1,6 @@
 // Import React
 import React from 'react';
 
-// Import Styles
-import '../App.css';
-
 export default function Header(props) {
 
     function scroll() {

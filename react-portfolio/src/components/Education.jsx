@@ -1,9 +1,6 @@
 // Import React
 import React from 'react';
 
-// Import Styles
-import '../App.css';
-
 // Import components
 import Card from './Card';
 
@@ -13,7 +10,7 @@ import data from '../database/cardData';
 export default function Education() {
     return (
         <div className='app-body'>
-            <h1 className='center'>Education</h1>
+            <h1 className='center heading'>Education</h1>
 
             <h2 className='center'>eLearning Tutorials</h2>
 

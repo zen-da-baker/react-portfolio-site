@@ -5,7 +5,7 @@ export default function Janissaries() {
     return (
         <article className="content app-body">
         
-            <h1 className="center-div">Corruption of the Janissaries</h1>
+            <h1 className="center-div heading">Corruption of the Janissaries</h1>
 
             <div className="center-div">
                 <img 

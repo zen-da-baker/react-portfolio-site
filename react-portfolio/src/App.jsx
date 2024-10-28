@@ -2,8 +2,8 @@
 import React, { useState } from 'react';
 
 // Import Styles
-import './App.css';
-import './history.css';
+import './styles/App.css';
+import './styles/history.css';
 
 // Import Core Components
 import Header from './components/Header';

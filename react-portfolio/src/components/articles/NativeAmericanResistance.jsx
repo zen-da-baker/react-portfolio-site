@@ -5,7 +5,7 @@ export default function NativeAmericanResistance() {
     return (
         <article className="content app-body">
         
-            <h1 className="center-div">Caught Between Power Blocs</h1>
+            <h1 className="center-div heading">Caught Between Power Blocs</h1>
 
             <div className="center-div">
                 <figcaption>

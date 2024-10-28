@@ -4,7 +4,7 @@ import React from 'react';
 export default function Home(props) {
     return (
         <div className='app-body'>
-           <h1 className='center'>Home</h1>
+           <h1 className='center heading'>Home</h1>
 
             <div className='gallery'>
                 <div className='banner' onClick={props.handleArt}>
